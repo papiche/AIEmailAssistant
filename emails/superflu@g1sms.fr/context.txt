@@ -1,0 +1,86 @@
+Contenu de l'email : 
+Bonjour
+
+J'ai vu que vous proposiez des formations pour devenir auto-hébergeur
+Je voudrai  en savoir plus ?
+
+Quels sont les logiciels que vous proposez d'installer
+
+De quels services puis-je disposer chez moi
+
+Quel type d'ordinateur faut il avoir?
+
+Quel type de connexion internet faut il avoir?
+
+Combien coute la formation?
+
+Quels avantages proposez-vous à ceux qui rejoigne la fédération des 
+auto-hébergeurs Astoport.ONE ?
+
+
+
+
+
+Réponse générée : 
+Bonjour SuperFlu !
+
+Merci pour ta réponse. Je vais essayer de fournir les informations 
+nécessaires.
+
+## Logiciels:
+
+Je peux te proposer d'installer oLLaMA, qui est spécifiquement conçue 
+pour être auto-hébergée et peut être exécutée sur un ordinateur 
+personnel. Je peux également te fournir des outils pour gérer les 
+requêtes et les modèles.
+
+## Services:
+
+En faisant partie de notre essaim auto-hébergeur, tu auras accès à une 
+variété de services, notamment :
+
+*   La plateforme NextCloud, qui permettra de stocker et de partager des 
+fichiers
+*   Des outils pour traduire les prompts en français,
+*   Des outils pour ajuster et améliorer les performances du modèle LLaMA
+
+## Ordinateur et connexion:
+
+Pour exécuter un système auto-hébergé, il suffit d'avoir une machine avec :
+
+*   Un processeur multicoeur (par exemple AMD Ryzen 5 ou Intel Core i5)
+*   Une quantité de mémoire RAM suffisante (16 Go minimum)
+*   Un disque dur rapide (SSD ou NVME) pour stocker les données
+*   Une connexion Internet stable et rapide (fibre optique)
+
+## Formation
+
+La première heure de formation est gratuite, et suffit à comprendre 
+comment installer les logiciels sur ton PC. Si nécessaire, nous pouvons 
+proposer un accompagnement et un suivi personnalisé pour que tu 
+réussisse la mise en place d'un système auto-hébergé.
+
+## Astoport.ONE
+
+En rejoignant la fédération Astoport.ONE, tu auras accès à une 
+communauté de personnes partageant les mêmes valeurs et intérêts. Tu 
+pourras également bénéficier de services supplémentaires tels que des 
+solutions d'assurance et de financement.
+
+Voici quelques avantages supplémentaires que je peux offrir :
+
+*   Des conseils personnalisés sur la mise en place d'un système 
+auto-hébergé
+*   Un soutien technique personnalisé pour aider à résoudre les 
+problèmes rencontrés
+*   L'opportunité de rejoindre une communauté de personnes partageant 
+les mêmes valeurs et intérêts
+*   Des services supplémentaires tels que des solutions d'assurance et 
+de financement
+
+Je suis prêt à répondre à toutes tes questions et à fournir plus de 
+détails si tu as besoin.
+
+À très vite,
+
+Fred
