@@ -27,6 +27,12 @@ MODEL=llama2
 CONTEXT=./context.txt
 ```
 
+2. Chemin de stockage des embeddings
+```
+# 'ln -s'
+mkdir emails
+```
+
 2. Assurez-vous qu'Ollama est installé et en cours d'exécution sur votre système.
 
 ## Installation
