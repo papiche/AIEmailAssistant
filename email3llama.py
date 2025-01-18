@@ -83,125 +83,103 @@ def lire_emails(imap_server, email_address, password):
         logger.error(f"Erreur inattendue lors de la lecture des emails: {str(e)}")
         logger.error(traceback.format_exc())
 
+def charger_cache():
+    if os.path.exists('emails/email_cache.json'):
+        with open('emails/email_cache.json', 'r') as f:
+            return json.load(f)
+    return {}
+
+def sauvegarder_cache(cache):
+    with open('emails/email_cache.json', 'w') as f:
+        json.dump(cache, f)
+
+def chercher_reponse(imap, id_message):
+    if id_message is None:
+        logger.warning("Message-ID est None, impossible de chercher la réponse")
+        return None
+
+    sent_folder = os.getenv('SENTDIR', 'INBOX.Sent')
+    status, _ = imap.select(f'"{sent_folder}"')
+    if status != "OK":
+        logger.error("Impossible de sélectionner le dossier Sent Mail")
+        return None
+
+    cleaned_id = id_message.strip().replace('"', '\\"')
+    search_criteria = f'(OR (HEADER "In-Reply-To" "{cleaned_id}") (HEADER "X-Original-Message-ID" "{cleaned_id}"))'
+    status, response_numbers = imap.search(None, search_criteria)
+
+    if status != "OK" or not response_numbers[0]:
+        return None
+
+    status, response_data = imap.fetch(response_numbers[0].split()[-1], "(RFC822)")
+    if status != "OK":
+        return None
+
+    email_reponse = email.message_from_bytes(response_data[0][1])
+    return get_email_content(email_reponse)
+
+
 def extraire_dataset():
-    try:
-        logger.info("Début de l'extraction du dataset")
-        imap = imaplib.IMAP4_SSL(os.getenv("IMAP_SERVER"))
-        logger.info("Connexion IMAP établie")
-        imap.login(os.getenv("EMAIL"), os.getenv("PASSWORD"))
-        logger.info("Connexion réussie")
+    cache = charger_cache()
+    dataset = []
+    imap = imaplib.IMAP4_SSL(os.getenv("IMAP_SERVER"))
+    imap.login(os.getenv("EMAIL"), os.getenv("PASSWORD"))
 
-        # Lister tous les dossiers
-        logger.info("Listing des dossiers de la boîte email:")
-        status, folder_list = imap.list()
-        if status == "OK":
-            for folder in folder_list:
-                folder_parts = folder.decode().split()
-                if len(folder_parts) >= 2:
-                    folder_name = folder_parts[-1]
-                    logger.info(f"Dossier trouvé: {folder_name}")
-        else:
-            logger.error("Impossible de lister les dossiers")
+    status, messages = imap.select("INBOX")
+    if status != "OK":
+        logger.error(f"Impossible de sélectionner le dossier INBOX: {messages}")
+        imap.logout()
+        return
 
-        dataset = []
+    status, message_numbers = imap.search(None, "ALL")
+    if status != "OK":
+        logger.error(f"Erreur lors de la recherche des messages: {message_numbers}")
+        imap.logout()
+        return
 
-        # Sélectionner le dossier INBOX
-        status, messages = imap.select("INBOX")
+    for num in message_numbers[0].split():
+        status, msg_data = imap.fetch(num, "(RFC822)")
         if status != "OK":
-            logger.error(f"Impossible de sélectionner le dossier INBOX: {messages}")
-            imap.logout()
-            return
-        logger.info("Dossier INBOX sélectionné avec succès")
+            continue
 
-        # Rechercher tous les messages reçus
-        logger.info("Recherche de tous les messages")
-        status, message_numbers = imap.search(None, "ALL")
-        if status != "OK":
-            logger.error(f"Erreur lors de la recherche des messages reçus: {message_numbers}")
-            imap.logout()
-            return
-        logger.info(f"Nombre de messages trouvés: {len(message_numbers[0].split())}")
+        email_recu = email.message_from_bytes(msg_data[0][1])
+        id_message = email_recu["Message-ID"]
 
-        sent_folder = os.getenv('SENTDIR', 'INBOX.Sent')
+        if id_message is None:
+            logger.warning(f"Message-ID manquant pour le message {num}, impossible de chercher la réponse")
+            continue
 
-        for num in message_numbers[0].split():
-            logger.info(f"Traitement du message numéro {num}")
-            status, msg_data = imap.fetch(num, "(RFC822)")
-            if status != "OK":
-                logger.error(f"Erreur lors de la récupération du message reçu {num}: {msg_data}")
-                continue
+        if id_message in cache:
+            dataset.append(cache[id_message])
+            logger.info(f"Utilisation du cache pour le message {id_message}")
+            continue
 
-            email_recu = email.message_from_bytes(msg_data[0][1])
-            id_message = email_recu["Message-ID"]
-            logger.info(f"Message-ID: {id_message}")
+        contenu_recu = get_email_content(email_recu)
+        contenu_reponse = chercher_reponse(imap, id_message)
 
-            # Extraire le contenu de l'email reçu
-            contenu_recu = get_email_content(email_recu)
-
-            # Chercher la réponse correspondante dans le dossier Sent
-            status, _ = imap.select(f'"{sent_folder}"')
-            if status != "OK":
-                logger.error("Impossible de sélectionner le dossier Sent Mail")
-                imap.select("INBOX")  # Retour à INBOX
-                continue
-            logger.info("Dossier Sent Mail sélectionné avec succès")
-
-            if id_message:
-                logger.info(f"Recherche de la réponse pour Message-ID: {id_message}")
-                # Nettoyer et échapper l'ID du message
-                cleaned_id = id_message.strip().replace('"', '\\"')
-                search_criteria = f'(OR (HEADER "In-Reply-To" "{cleaned_id}") (HEADER "X-Original-Message-ID" "{cleaned_id}"))'
-                status, response_numbers = imap.search(None, search_criteria)
-            else:
-                logger.info("Message-ID manquant, impossible de rechercher la réponse")
-                imap.select("INBOX")  # Retour à INBOX
-                continue
-
-            if status != "OK" or not response_numbers[0]:
-                # logger.info(f"Aucune réponse trouvée pour le message {num}")
-                imap.select("INBOX")  # Retour à INBOX
-                continue
-
-            logger.info(f"Réponse trouvée, récupération du contenu")
-            status, response_data = imap.fetch(response_numbers[0].split()[-1], "(RFC822)")
-            if status != "OK":
-                logger.error(f"Erreur lors de la récupération de la réponse: {status}")
-                imap.select("INBOX")  # Retour à INBOX
-                continue
-
-            email_reponse = email.message_from_bytes(response_data[0][1])
-
-            # Extraire le contenu de l'email de réponse
-            contenu_reponse = get_email_content(email_reponse)
-
-            # Appel à creer_fichier_contextuel ici
-            creer_fichier_contextuel(email.utils.parseaddr(email_recu["From"])[1], contenu_reponse, contenu_recu)
-
-            dataset.append({
+        if contenu_reponse:
+            item = {
+                "email": email.utils.parseaddr(email_recu["From"])[1],
                 "input": contenu_recu,
                 "output": contenu_reponse
-            })
-            logger.info(f"Paire d'emails ajoutée au dataset")
+            }
+            dataset.append(item)
+            cache[id_message] = item
+            logger.info(f"Nouvelle paire d'emails ajoutée au dataset et au cache")
 
-            # Retour à INBOX pour le prochain message
-            imap.select("INBOX")
+    imap.logout()
+    sauvegarder_cache(cache)
 
-        imap.close()
-        imap.logout()
-        logger.info("Déconnexion IMAP effectuée")
+    with open("email_dataset.json", "w") as f:
+        json.dump(dataset, f)
 
-        # Sauvegarder le dataset au format JSON
-        with open("email_dataset.json", "w") as f:
-            json.dump(dataset, f)
-
-        logger.info(f"Dataset créé avec {len(dataset)} paires d'emails")
-
-    except Exception as e:
-        logger.error(f"Erreur lors de l'extraction du dataset: {str(e)}")
-        logger.error(traceback.format_exc())
+    logger.info(f"Dataset créé avec {len(dataset)} paires d'emails")
 
 
 def get_email_content(email_message):
+    """
+    Extrait le contenu texte d'un email.
+    """
     if email_message.is_multipart():
         for part in email_message.walk():
             if part.get_content_type() == "text/plain":
@@ -267,23 +245,23 @@ def creer_fichier_contextuel(email_address, reponse_generee, contenu):
     except Exception as e:
         logger.error(f"Erreur lors de la création du fichier contextuel : {str(e)}")
 
-def charger_dataset_embeddings():
+def charger_dataset_embeddings(email):
     with open("email_dataset.json", "r") as f:
         dataset = json.load(f)
 
     dataset_embeddings = []
     for item in dataset:
-        input_embedding = generer_embedding(item["input"])
-        output_embedding = generer_embedding(item["output"])
-        dataset_embeddings.append({
-            "input": item["input"],
-            "output": item["output"],
-            "input_embedding": input_embedding,
-            "output_embedding": output_embedding
-        })
+        if email == "" or item.get("email") == email:
+            input_embedding = generer_embedding(item["input"])
+            output_embedding = generer_embedding(item["output"])
+            dataset_embeddings.append({
+                "input": item["input"],
+                "output": item["output"],
+                "input_embedding": input_embedding,
+                "output_embedding": output_embedding
+            })
 
     return dataset_embeddings
-
 
 def generer_embedding(texte):
     embedding_data = {
@@ -315,7 +293,7 @@ def stocker_embedding(expediteur, contenu, embedding):
         json.dump(embeddings, f)
 
 
-def lire_et_mettre_a_jour_contexte():
+def charger_contexte_global():
     CONTEXT = os.getenv("CONTEXT")
     if not os.path.exists(CONTEXT):
         with open(CONTEXT, 'w') as f:
@@ -333,32 +311,41 @@ def ajouter_au_contexte_global(nouveau_contenu):
 
 def generer_reponse(expediteur, sujet, contenu, model_name):
     try:
+
         # Prétraitement du contenu pour enlever les lignes commençant par "> "
         contenu_nettoye = "\n".join([ligne for ligne in contenu.split("\n") if not ligne.strip().startswith(">")])
-
-        contexte_pertinent = lire_et_mettre_a_jour_contexte()
 
         # Générer l'embedding pour le contenu nettoyé de l'email actuel
         email_embedding = generer_embedding(contenu_nettoye)
 
-        # Trouver les entrées les plus similaires dans le dataset
-        similarites = [cosine_similarity([email_embedding], [item["input_embedding"]])[0][0] for item in dataset_embeddings]
-        indices_tries = np.argsort(similarites)[::-1][:5]  # Prendre les 5 plus similaires
+        # chargement du dataset global pour recherche de similarité de input
+        dataset_embeddings = charger_dataset_embeddings("")
+        logger.info(f"Dataset GLOBAL chargé pour avec {len(dataset_embeddings)} entrées")
 
+        # Trouver les entrées les plus similaires dans le dataset global
+        similarites = [cosine_similarity([email_embedding], [item["input_embedding"]])[0][0] for item in dataset_embeddings]
+        indices_tries = np.argsort(similarites)[::-1][:2]  # Prendre les 2 plus similaires
         exemples_similaires = [dataset_embeddings[i]["output"] for i in indices_tries]
 
+        # Charger le dataset_embeddings spécifique à l'expéditeur
+        dataset_embeddings = charger_dataset_embeddings(expediteur)
+        logger.info(f"Dataset chargé pour {expediteur} avec {len(dataset_embeddings)} entrées")
+
+        contexte_global = charger_contexte_global()
+
         # Construire le prompt avec le contexte pertinent et les exemples similaires
-        prompt = f"Contexte pertinent:\n{contexte_pertinent}\n\n"
-        prompt += "Exemples de réponses similaires:\n"
+        prompt = f"[CONTEXTE] :\n{contexte_global}\n\n"
+        prompt += "[SUGGESTIONS]:\n"
         for exemple in exemples_similaires:
             prompt += f"{exemple}\n\n"
-        prompt += f"EMAIL ACTUEL:\nExpéditeur: {expediteur}\nSujet: {sujet}\nContenu: {contenu_nettoye}\n\nRéponse:"
+
+        prompt += f"[EMAIL ACTUEL]:\nExpéditeur: {expediteur}\nSujet: {sujet}\nContenu: {contenu_nettoye}\n\nRéponse:"
 
         # Générer la réponse
         generate_data = {
             "model": model_name,
             "prompt": prompt,
-            "system": f"Tu es ASTRO, un assistant intelligent qui lit et répond aux messages de la boite email de {expediteur}. Utilise le contexte fourni pour générer une réponse pertinente. Ne formule aucune analyse préalable, donne juste une réponse synthétique à EMAIL ACTUEL",
+            "system": f"Tu es ASTRO, un assistant intelligent qui lit et répond aux messages de la boite email de {expediteur}. En te fiant à [CONTEXTE], avec l'aide des [SUGGESTIONS], formule une réponse pertinente à [EMAIL ACTUEL] de la part de {expediteur}",
             "stream": False
         }
 
@@ -405,16 +392,15 @@ if __name__ == "__main__":
         PASSWORD = os.getenv("PASSWORD")
         MODEL = os.getenv("MODEL")
 
-        global dataset_embeddings
+        # ~ global dataset_embeddings
 
-        dataset_embeddings = charger_dataset_embeddings()
-        logger.info(f"Dataset chargé avec {len(dataset_embeddings)} entrées")
+        # ~ dataset_embeddings = charger_dataset_embeddings()
+        # ~ logger.info(f"Dataset chargé avec {len(dataset_embeddings)} entrées")
+        logger.info(f"Mise à jour DATASET pour la BAL {EMAIL}")
+        extraire_dataset()
 
         traiter_emails_et_appliquer_rag(IMAP_SERVER, EMAIL, PASSWORD, SMTP_SERVER, SMTP_PORT, MODEL)
         logger.info("=============== Fin du processus de traitement des emails... ====================")
-
-        logger.info(f"Mise à jour DATASET pour la BAL {EMAIL}")
-        extraire_dataset()
 
     except KeyboardInterrupt:
         logger.info("Processus interrompu par l'utilisateur")

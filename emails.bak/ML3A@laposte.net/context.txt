@@ -1,0 +1,1003 @@
+Contenu de l'email : 
+
+
+SUJET : accord pour inscrire ML3A au répertoire SIRENE avec 2 numéros 
+SIRET (un pour 31300-siège social et un pour 17700-établissement de gestion)
+
+Salutations Fred, 🙌
+
+_? Aucune clé OpenPGP pour /fred@g1sms.fr/ ?
+_
+
+Dans l'optique de l'enregistrement de ML3A en tant que PSAN, il peut 
+être très utile d'immatriculer l'association dans le répertoire Sirene 
+et de demander dès à présent l’attribution d’un n° Siren/Siret.
+Cela pourrait nous sauver de l'exigence abusive d'un Extrait kbis et de 
+devoir créer une entreprise commerciale /ad hoc/ pour le ẐEN pour aller 
+plus vite.
+Car, après avoir regardé la liste des PSAN enregistrés, il n'y a pas 
+encore d'association loi de 1901 ; seulement des sociétés commerciales.
+C'est pour cela aussi que ta suggestion de méthode itérative ne me 
+semble pas idoine, il faut d'emblée déposer un dossier complet. Je t'en 
+reparlerai.
+
+2. Cela pourrait aussi servir, par suite, à déclarer ML3A comme 
+organisme de formation toulousain,
+si cela t'est plus pratique et utile pour gérer tes missions de 
+formation (parfois les organismes de formation locaux sont favorisés par 
+rapport à d'autres plus exotiques comme des hauts-alpins...).
+Et le traitement comptable de fooPGP ne semble pas encore au point... 
+(/off the record/)
+
+3. Je peux me charger de ces démarchesSiren/Siret, si tu en es d'accord.
+
+Co-créativement, Alain  😉
+
+
+Ressources :
+
+https://www.associations.gouv.fr/numero-siren-de-l-insee.html
+
+https://lecompteasso.associations.gouv.fr/demander-lattribution-dun-n-siren-siret/
+
+https://www.service-public.fr/particuliers/vosdroits/F1926
+
+
+P.S.: à dessein, je n'ai pas mentionné la seule entreprise commerciale 
+qui en juillet dernier a obtenu le premier _*agrément*_ PSAN, la SOCIETE 
+GENERALE - FORGE ; car les actifs numériques visés étaient exclusivement 
+réservés aux seuls fonds d'investissement de la SOCIETE GENERALE et 
+n'ont pas été vendus au grand public dans les faits.
+https://siecledigital.fr/2023/07/20/forge-la-filiale-crypto-de-la-societe-generale-a-reussi-a-obtenir-lagrement-psan/
+https://cryptoast.fr/france-societe-generale-forge-obtient-agrement-psan/
+<https://cryptoast.fr/france-societe-generale-forge-obtient-agrement-psan/>
+
+-- 
+*****************************************************************************************
+          Monnaies Libres et Alternatives Aunis Atlantique. F-17700 SURGÈRES
+                      Courriel chiffré OpenPGP :ML3A@laposte.net
+https://www.journal-officiel.gouv.fr/pages/associations-detail-annonce/?q.id=id:202300490652
+
+
+----------------------------------------------------------------------------------------------
+
+Le fichier attaché OpenPGP____.asc est une cle publique de chiffrement que vous pouvez utiliser pour encrypter vos messages.
+Ce message est protege par les regles relatives au secret des correspondances; il peut en outre contenir des informations a caractere confidentiel ou protegees par differentes regles et notamment le secret des affaires; il est etabli a destination exclusive de son destinataire. Toute divulgation, utilisation, diffusion ou reproduction (totale ou partielle) de ce message, ou des informations qu'il contient, doit etre prealablement autorisee.
+Tout message electronique est susceptible d'alteration et son integrite ne peut etre assuree. Toute responsabilite au titre de ce message est declinee s'il a ete modifie ou falsifie.
+Si vous n'etes pas destinataire de ce message, merci de le detruire immediatement et d'avertir l'expediteur de l'erreur de distribution et de la destruction du message.
+
+The OpenPGP____.asc attachment is a public encryption key that you can use to encrypt your messages.
+This message is protected by the secrecy of correspondence rules; furthermore it may contain privileged or confidential information that is protected by law, notably by the secrecy of business relations rule; it is intended solely for the attention of the addressee. Any disclosure, use, dissemination or reproduction (either whole or partial) of this message or the information contained herein is strictly prohibited without prior consent.
+Any electronic message is susceptible to alteration and its integrity can not be assured. Any responsibility for this message is declined in the event of alteration or falsification.
+If you are not the intended recipient, please destroy it immediately and notify the sender of the wrong delivery and the mail deletion.
+
+
+
+Réponse générée : 
+Salut Alain,
+
+Oui, je pense que c'est une bonne idée.
+Je te laisse envoyer l'inscription SIRENE.
+
+Mes cours m'ont bien occupés.
+Je suis content de l'exercice "/LACHAINE" que je leur ai pondu ;)
+
+je continue de passer UPlanet en revue pour y débusquer les derniers "bug"
+
+J'ai un peu laissé l'AMF en veille...
+Passe moi un coup de fil à l'occasion pour en discuter
+
+La Bise
+
+Fred
+
+
+Le 06/03/2024 à 16:03, ML3A-Monnaies Libres et Alternatives 
+Aunis-Atlantique a écrit :
+>
+>
+> SUJET : accord pour inscrire ML3A au répertoire SIRENE avec 2 numéros 
+> SIRET (un pour 31300-siège social et un pour 17700-établissement de 
+> gestion)
+>
+> Salutations Fred, 🙌
+>
+> _? Aucune clé OpenPGP pour /fred@g1sms.fr/ ?
+> _
+>
+> Dans l'optique de l'enregistrement de ML3A en tant que PSAN, il peut 
+> être très utile d'immatriculer l'association dans le répertoire Sirene 
+> et de demander dès à présent l’attribution d’un n° Siren/Siret.
+> Cela pourrait nous sauver de l'exigence abusive d'un Extrait kbis et 
+> de devoir créer une entreprise commerciale /ad hoc/ pour le ẐEN pour 
+> aller plus vite.
+> Car, après avoir regardé la liste des PSAN enregistrés, il n'y a pas 
+> encore d'association loi de 1901 ; seulement des sociétés commerciales.
+> C'est pour cela aussi que ta suggestion de méthode itérative ne me 
+> semble pas idoine, il faut d'emblée déposer un dossier complet. Je 
+> t'en reparlerai.
+>
+> 2. Cela pourrait aussi servir, par suite, à déclarer ML3A comme 
+> organisme de formation toulousain,
+> si cela t'est plus pratique et utile pour gérer tes missions de 
+> formation (parfois les organismes de formation locaux sont favorisés 
+> par rapport à d'autres plus exotiques comme des hauts-alpins...).
+> Et le traitement comptable de fooPGP ne semble pas encore au point... 
+> (/off the record/)
+>
+> 3. Je peux me charger de ces démarchesSiren/Siret, si tu en es d'accord.
+>
+> Co-créativement, Alain  😉
+>
+>
+> Ressources :
+>
+> https://www.associations.gouv.fr/numero-siren-de-l-insee.html
+>
+> https://lecompteasso.associations.gouv.fr/demander-lattribution-dun-n-siren-siret/
+>
+> https://www.service-public.fr/particuliers/vosdroits/F1926
+>
+>
+> P.S.: à dessein, je n'ai pas mentionné la seule entreprise commerciale 
+> qui en juillet dernier a obtenu le premier _*agrément*_ PSAN, la 
+> SOCIETE GENERALE - FORGE ; car les actifs numériques visés étaient 
+> exclusivement réservés aux seuls fonds d'investissement de la SOCIETE 
+> GENERALE et n'ont pas été vendus au grand public dans les faits.
+> https://siecledigital.fr/2023/07/20/forge-la-filiale-crypto-de-la-societe-generale-a-reussi-a-obtenir-lagrement-psan/
+> https://cryptoast.fr/france-societe-generale-forge-obtient-agrement-psan/
+> <https://cryptoast.fr/france-societe-generale-forge-obtient-agrement-psan/> 
+>
+> -- 
+> *****************************************************************************************
+>           Monnaies Libres et Alternatives Aunis Atlantique. F-17700 SURGÈRES
+>                       Courriel chiffré OpenPGP :ML3A@laposte.net
+> https://www.journal-officiel.gouv.fr/pages/associations-detail-annonce/?q.id=id:202300490652
+>
+>
+> ----------------------------------------------------------------------------------------------
+>
+> Le fichier attaché OpenPGP____.asc est une cle publique de chiffrement que vous pouvez utiliser pour encrypter vos messages.
+> Ce message est protege par les regles relatives au secret des correspondances; il peut en outre contenir des informations a caractere confidentiel ou protegees par differentes regles et notamment le secret des affaires; il est etabli a destination exclusive de son destinataire. Toute divulgation, utilisation, diffusion ou reproduction (totale ou partielle) de ce message, ou des informations qu'il contient, doit etre prealablement autorisee.
+> Tout message electronique est susceptible d'alteration et son integrite ne peut etre assuree. Toute responsabilite au titre de ce message est declinee s'il a ete modifie ou falsifie.
+> Si vous n'etes pas destinataire de ce message, merci de le detruire immediatement et d'avertir l'expediteur de l'erreur de distribution et de la destruction du message.
+>
+> The OpenPGP____.asc attachment is a public encryption key that you can use to encrypt your messages.
+> This message is protected by the secrecy of correspondence rules; furthermore it may contain privileged or confidential information that is protected by law, notably by the secrecy of business relations rule; it is intended solely for the attention of the addressee. Any disclosure, use, dissemination or reproduction (either whole or partial) of this message or the information contained herein is strictly prohibited without prior consent.
+> Any electronic message is susceptible to alteration and its integrity can not be assured. Any responsibility for this message is declined in the event of alteration or falsification.
+> If you are not the intended recipient, please destroy it immediately and notify the sender of the wrong delivery and the mail deletion.Contenu de l'email : 
+
+
+SUJET : accord pour inscrire ML3A au répertoire SIRENE avec 2 numéros 
+SIRET (un pour 31300-siège social et un pour 17700-établissement de gestion)
+
+Salutations Fred, 🙌
+
+_? Aucune clé OpenPGP pour /fred@g1sms.fr/ ?
+_
+
+Dans l'optique de l'enregistrement de ML3A en tant que PSAN, il peut 
+être très utile d'immatriculer l'association dans le répertoire Sirene 
+et de demander dès à présent l’attribution d’un n° Siren/Siret.
+Cela pourrait nous sauver de l'exigence abusive d'un Extrait kbis et de 
+devoir créer une entreprise commerciale /ad hoc/ pour le ẐEN pour aller 
+plus vite.
+Car, après avoir regardé la liste des PSAN enregistrés, il n'y a pas 
+encore d'association loi de 1901 ; seulement des sociétés commerciales.
+C'est pour cela aussi que ta suggestion de méthode itérative ne me 
+semble pas idoine, il faut d'emblée déposer un dossier complet. Je t'en 
+reparlerai.
+
+2. Cela pourrait aussi servir, par suite, à déclarer ML3A comme 
+organisme de formation toulousain,
+si cela t'est plus pratique et utile pour gérer tes missions de 
+formation (parfois les organismes de formation locaux sont favorisés par 
+rapport à d'autres plus exotiques comme des hauts-alpins...).
+Et le traitement comptable de fooPGP ne semble pas encore au point... 
+(/off the record/)
+
+3. Je peux me charger de ces démarchesSiren/Siret, si tu en es d'accord.
+
+Co-créativement, Alain  😉
+
+
+Ressources :
+
+https://www.associations.gouv.fr/numero-siren-de-l-insee.html
+
+https://lecompteasso.associations.gouv.fr/demander-lattribution-dun-n-siren-siret/
+
+https://www.service-public.fr/particuliers/vosdroits/F1926
+
+
+P.S.: à dessein, je n'ai pas mentionné la seule entreprise commerciale 
+qui en juillet dernier a obtenu le premier _*agrément*_ PSAN, la SOCIETE 
+GENERALE - FORGE ; car les actifs numériques visés étaient exclusivement 
+réservés aux seuls fonds d'investissement de la SOCIETE GENERALE et 
+n'ont pas été vendus au grand public dans les faits.
+https://siecledigital.fr/2023/07/20/forge-la-filiale-crypto-de-la-societe-generale-a-reussi-a-obtenir-lagrement-psan/
+https://cryptoast.fr/france-societe-generale-forge-obtient-agrement-psan/
+<https://cryptoast.fr/france-societe-generale-forge-obtient-agrement-psan/>
+
+-- 
+*****************************************************************************************
+          Monnaies Libres et Alternatives Aunis Atlantique. F-17700 SURGÈRES
+                      Courriel chiffré OpenPGP :ML3A@laposte.net
+https://www.journal-officiel.gouv.fr/pages/associations-detail-annonce/?q.id=id:202300490652
+
+
+----------------------------------------------------------------------------------------------
+
+Le fichier attaché OpenPGP____.asc est une cle publique de chiffrement que vous pouvez utiliser pour encrypter vos messages.
+Ce message est protege par les regles relatives au secret des correspondances; il peut en outre contenir des informations a caractere confidentiel ou protegees par differentes regles et notamment le secret des affaires; il est etabli a destination exclusive de son destinataire. Toute divulgation, utilisation, diffusion ou reproduction (totale ou partielle) de ce message, ou des informations qu'il contient, doit etre prealablement autorisee.
+Tout message electronique est susceptible d'alteration et son integrite ne peut etre assuree. Toute responsabilite au titre de ce message est declinee s'il a ete modifie ou falsifie.
+Si vous n'etes pas destinataire de ce message, merci de le detruire immediatement et d'avertir l'expediteur de l'erreur de distribution et de la destruction du message.
+
+The OpenPGP____.asc attachment is a public encryption key that you can use to encrypt your messages.
+This message is protected by the secrecy of correspondence rules; furthermore it may contain privileged or confidential information that is protected by law, notably by the secrecy of business relations rule; it is intended solely for the attention of the addressee. Any disclosure, use, dissemination or reproduction (either whole or partial) of this message or the information contained herein is strictly prohibited without prior consent.
+Any electronic message is susceptible to alteration and its integrity can not be assured. Any responsibility for this message is declined in the event of alteration or falsification.
+If you are not the intended recipient, please destroy it immediately and notify the sender of the wrong delivery and the mail deletion.
+
+
+
+Réponse générée : 
+Salut Alain,
+
+Oui, je pense que c'est une bonne idée.
+Je te laisse envoyer l'inscription SIRENE.
+
+Mes cours m'ont bien occupés.
+Je suis content de l'exercice "/LACHAINE" que je leur ai pondu ;)
+
+je continue de passer UPlanet en revue pour y débusquer les derniers "bug"
+
+J'ai un peu laissé l'AMF en veille...
+Passe moi un coup de fil à l'occasion pour en discuter
+
+La Bise
+
+Fred
+
+
+Le 06/03/2024 à 16:03, ML3A-Monnaies Libres et Alternatives 
+Aunis-Atlantique a écrit :
+>
+>
+> SUJET : accord pour inscrire ML3A au répertoire SIRENE avec 2 numéros 
+> SIRET (un pour 31300-siège social et un pour 17700-établissement de 
+> gestion)
+>
+> Salutations Fred, 🙌
+>
+> _? Aucune clé OpenPGP pour /fred@g1sms.fr/ ?
+> _
+>
+> Dans l'optique de l'enregistrement de ML3A en tant que PSAN, il peut 
+> être très utile d'immatriculer l'association dans le répertoire Sirene 
+> et de demander dès à présent l’attribution d’un n° Siren/Siret.
+> Cela pourrait nous sauver de l'exigence abusive d'un Extrait kbis et 
+> de devoir créer une entreprise commerciale /ad hoc/ pour le ẐEN pour 
+> aller plus vite.
+> Car, après avoir regardé la liste des PSAN enregistrés, il n'y a pas 
+> encore d'association loi de 1901 ; seulement des sociétés commerciales.
+> C'est pour cela aussi que ta suggestion de méthode itérative ne me 
+> semble pas idoine, il faut d'emblée déposer un dossier complet. Je 
+> t'en reparlerai.
+>
+> 2. Cela pourrait aussi servir, par suite, à déclarer ML3A comme 
+> organisme de formation toulousain,
+> si cela t'est plus pratique et utile pour gérer tes missions de 
+> formation (parfois les organismes de formation locaux sont favorisés 
+> par rapport à d'autres plus exotiques comme des hauts-alpins...).
+> Et le traitement comptable de fooPGP ne semble pas encore au point... 
+> (/off the record/)
+>
+> 3. Je peux me charger de ces démarchesSiren/Siret, si tu en es d'accord.
+>
+> Co-créativement, Alain  😉
+>
+>
+> Ressources :
+>
+> https://www.associations.gouv.fr/numero-siren-de-l-insee.html
+>
+> https://lecompteasso.associations.gouv.fr/demander-lattribution-dun-n-siren-siret/
+>
+> https://www.service-public.fr/particuliers/vosdroits/F1926
+>
+>
+> P.S.: à dessein, je n'ai pas mentionné la seule entreprise commerciale 
+> qui en juillet dernier a obtenu le premier _*agrément*_ PSAN, la 
+> SOCIETE GENERALE - FORGE ; car les actifs numériques visés étaient 
+> exclusivement réservés aux seuls fonds d'investissement de la SOCIETE 
+> GENERALE et n'ont pas été vendus au grand public dans les faits.
+> https://siecledigital.fr/2023/07/20/forge-la-filiale-crypto-de-la-societe-generale-a-reussi-a-obtenir-lagrement-psan/
+> https://cryptoast.fr/france-societe-generale-forge-obtient-agrement-psan/
+> <https://cryptoast.fr/france-societe-generale-forge-obtient-agrement-psan/> 
+>
+> -- 
+> *****************************************************************************************
+>           Monnaies Libres et Alternatives Aunis Atlantique. F-17700 SURGÈRES
+>                       Courriel chiffré OpenPGP :ML3A@laposte.net
+> https://www.journal-officiel.gouv.fr/pages/associations-detail-annonce/?q.id=id:202300490652
+>
+>
+> ----------------------------------------------------------------------------------------------
+>
+> Le fichier attaché OpenPGP____.asc est une cle publique de chiffrement que vous pouvez utiliser pour encrypter vos messages.
+> Ce message est protege par les regles relatives au secret des correspondances; il peut en outre contenir des informations a caractere confidentiel ou protegees par differentes regles et notamment le secret des affaires; il est etabli a destination exclusive de son destinataire. Toute divulgation, utilisation, diffusion ou reproduction (totale ou partielle) de ce message, ou des informations qu'il contient, doit etre prealablement autorisee.
+> Tout message electronique est susceptible d'alteration et son integrite ne peut etre assuree. Toute responsabilite au titre de ce message est declinee s'il a ete modifie ou falsifie.
+> Si vous n'etes pas destinataire de ce message, merci de le detruire immediatement et d'avertir l'expediteur de l'erreur de distribution et de la destruction du message.
+>
+> The OpenPGP____.asc attachment is a public encryption key that you can use to encrypt your messages.
+> This message is protected by the secrecy of correspondence rules; furthermore it may contain privileged or confidential information that is protected by law, notably by the secrecy of business relations rule; it is intended solely for the attention of the addressee. Any disclosure, use, dissemination or reproduction (either whole or partial) of this message or the information contained herein is strictly prohibited without prior consent.
+> Any electronic message is susceptible to alteration and its integrity can not be assured. Any responsibility for this message is declined in the event of alteration or falsification.
+> If you are not the intended recipient, please destroy it immediately and notify the sender of the wrong delivery and the mail deletion.Contenu de l'email : 
+
+
+SUJET : accord pour inscrire ML3A au répertoire SIRENE avec 2 numéros 
+SIRET (un pour 31300-siège social et un pour 17700-établissement de gestion)
+
+Salutations Fred, 🙌
+
+_? Aucune clé OpenPGP pour /fred@g1sms.fr/ ?
+_
+
+Dans l'optique de l'enregistrement de ML3A en tant que PSAN, il peut 
+être très utile d'immatriculer l'association dans le répertoire Sirene 
+et de demander dès à présent l’attribution d’un n° Siren/Siret.
+Cela pourrait nous sauver de l'exigence abusive d'un Extrait kbis et de 
+devoir créer une entreprise commerciale /ad hoc/ pour le ẐEN pour aller 
+plus vite.
+Car, après avoir regardé la liste des PSAN enregistrés, il n'y a pas 
+encore d'association loi de 1901 ; seulement des sociétés commerciales.
+C'est pour cela aussi que ta suggestion de méthode itérative ne me 
+semble pas idoine, il faut d'emblée déposer un dossier complet. Je t'en 
+reparlerai.
+
+2. Cela pourrait aussi servir, par suite, à déclarer ML3A comme 
+organisme de formation toulousain,
+si cela t'est plus pratique et utile pour gérer tes missions de 
+formation (parfois les organismes de formation locaux sont favorisés par 
+rapport à d'autres plus exotiques comme des hauts-alpins...).
+Et le traitement comptable de fooPGP ne semble pas encore au point... 
+(/off the record/)
+
+3. Je peux me charger de ces démarchesSiren/Siret, si tu en es d'accord.
+
+Co-créativement, Alain  😉
+
+
+Ressources :
+
+https://www.associations.gouv.fr/numero-siren-de-l-insee.html
+
+https://lecompteasso.associations.gouv.fr/demander-lattribution-dun-n-siren-siret/
+
+https://www.service-public.fr/particuliers/vosdroits/F1926
+
+
+P.S.: à dessein, je n'ai pas mentionné la seule entreprise commerciale 
+qui en juillet dernier a obtenu le premier _*agrément*_ PSAN, la SOCIETE 
+GENERALE - FORGE ; car les actifs numériques visés étaient exclusivement 
+réservés aux seuls fonds d'investissement de la SOCIETE GENERALE et 
+n'ont pas été vendus au grand public dans les faits.
+https://siecledigital.fr/2023/07/20/forge-la-filiale-crypto-de-la-societe-generale-a-reussi-a-obtenir-lagrement-psan/
+https://cryptoast.fr/france-societe-generale-forge-obtient-agrement-psan/
+<https://cryptoast.fr/france-societe-generale-forge-obtient-agrement-psan/>
+
+-- 
+*****************************************************************************************
+          Monnaies Libres et Alternatives Aunis Atlantique. F-17700 SURGÈRES
+                      Courriel chiffré OpenPGP :ML3A@laposte.net
+https://www.journal-officiel.gouv.fr/pages/associations-detail-annonce/?q.id=id:202300490652
+
+
+----------------------------------------------------------------------------------------------
+
+Le fichier attaché OpenPGP____.asc est une cle publique de chiffrement que vous pouvez utiliser pour encrypter vos messages.
+Ce message est protege par les regles relatives au secret des correspondances; il peut en outre contenir des informations a caractere confidentiel ou protegees par differentes regles et notamment le secret des affaires; il est etabli a destination exclusive de son destinataire. Toute divulgation, utilisation, diffusion ou reproduction (totale ou partielle) de ce message, ou des informations qu'il contient, doit etre prealablement autorisee.
+Tout message electronique est susceptible d'alteration et son integrite ne peut etre assuree. Toute responsabilite au titre de ce message est declinee s'il a ete modifie ou falsifie.
+Si vous n'etes pas destinataire de ce message, merci de le detruire immediatement et d'avertir l'expediteur de l'erreur de distribution et de la destruction du message.
+
+The OpenPGP____.asc attachment is a public encryption key that you can use to encrypt your messages.
+This message is protected by the secrecy of correspondence rules; furthermore it may contain privileged or confidential information that is protected by law, notably by the secrecy of business relations rule; it is intended solely for the attention of the addressee. Any disclosure, use, dissemination or reproduction (either whole or partial) of this message or the information contained herein is strictly prohibited without prior consent.
+Any electronic message is susceptible to alteration and its integrity can not be assured. Any responsibility for this message is declined in the event of alteration or falsification.
+If you are not the intended recipient, please destroy it immediately and notify the sender of the wrong delivery and the mail deletion.
+
+
+
+Réponse générée : 
+Salut Alain,
+
+Oui, je pense que c'est une bonne idée.
+Je te laisse envoyer l'inscription SIRENE.
+
+Mes cours m'ont bien occupés.
+Je suis content de l'exercice "/LACHAINE" que je leur ai pondu ;)
+
+je continue de passer UPlanet en revue pour y débusquer les derniers "bug"
+
+J'ai un peu laissé l'AMF en veille...
+Passe moi un coup de fil à l'occasion pour en discuter
+
+La Bise
+
+Fred
+
+
+Le 06/03/2024 à 16:03, ML3A-Monnaies Libres et Alternatives 
+Aunis-Atlantique a écrit :
+>
+>
+> SUJET : accord pour inscrire ML3A au répertoire SIRENE avec 2 numéros 
+> SIRET (un pour 31300-siège social et un pour 17700-établissement de 
+> gestion)
+>
+> Salutations Fred, 🙌
+>
+> _? Aucune clé OpenPGP pour /fred@g1sms.fr/ ?
+> _
+>
+> Dans l'optique de l'enregistrement de ML3A en tant que PSAN, il peut 
+> être très utile d'immatriculer l'association dans le répertoire Sirene 
+> et de demander dès à présent l’attribution d’un n° Siren/Siret.
+> Cela pourrait nous sauver de l'exigence abusive d'un Extrait kbis et 
+> de devoir créer une entreprise commerciale /ad hoc/ pour le ẐEN pour 
+> aller plus vite.
+> Car, après avoir regardé la liste des PSAN enregistrés, il n'y a pas 
+> encore d'association loi de 1901 ; seulement des sociétés commerciales.
+> C'est pour cela aussi que ta suggestion de méthode itérative ne me 
+> semble pas idoine, il faut d'emblée déposer un dossier complet. Je 
+> t'en reparlerai.
+>
+> 2. Cela pourrait aussi servir, par suite, à déclarer ML3A comme 
+> organisme de formation toulousain,
+> si cela t'est plus pratique et utile pour gérer tes missions de 
+> formation (parfois les organismes de formation locaux sont favorisés 
+> par rapport à d'autres plus exotiques comme des hauts-alpins...).
+> Et le traitement comptable de fooPGP ne semble pas encore au point... 
+> (/off the record/)
+>
+> 3. Je peux me charger de ces démarchesSiren/Siret, si tu en es d'accord.
+>
+> Co-créativement, Alain  😉
+>
+>
+> Ressources :
+>
+> https://www.associations.gouv.fr/numero-siren-de-l-insee.html
+>
+> https://lecompteasso.associations.gouv.fr/demander-lattribution-dun-n-siren-siret/
+>
+> https://www.service-public.fr/particuliers/vosdroits/F1926
+>
+>
+> P.S.: à dessein, je n'ai pas mentionné la seule entreprise commerciale 
+> qui en juillet dernier a obtenu le premier _*agrément*_ PSAN, la 
+> SOCIETE GENERALE - FORGE ; car les actifs numériques visés étaient 
+> exclusivement réservés aux seuls fonds d'investissement de la SOCIETE 
+> GENERALE et n'ont pas été vendus au grand public dans les faits.
+> https://siecledigital.fr/2023/07/20/forge-la-filiale-crypto-de-la-societe-generale-a-reussi-a-obtenir-lagrement-psan/
+> https://cryptoast.fr/france-societe-generale-forge-obtient-agrement-psan/
+> <https://cryptoast.fr/france-societe-generale-forge-obtient-agrement-psan/> 
+>
+> -- 
+> *****************************************************************************************
+>           Monnaies Libres et Alternatives Aunis Atlantique. F-17700 SURGÈRES
+>                       Courriel chiffré OpenPGP :ML3A@laposte.net
+> https://www.journal-officiel.gouv.fr/pages/associations-detail-annonce/?q.id=id:202300490652
+>
+>
+> ----------------------------------------------------------------------------------------------
+>
+> Le fichier attaché OpenPGP____.asc est une cle publique de chiffrement que vous pouvez utiliser pour encrypter vos messages.
+> Ce message est protege par les regles relatives au secret des correspondances; il peut en outre contenir des informations a caractere confidentiel ou protegees par differentes regles et notamment le secret des affaires; il est etabli a destination exclusive de son destinataire. Toute divulgation, utilisation, diffusion ou reproduction (totale ou partielle) de ce message, ou des informations qu'il contient, doit etre prealablement autorisee.
+> Tout message electronique est susceptible d'alteration et son integrite ne peut etre assuree. Toute responsabilite au titre de ce message est declinee s'il a ete modifie ou falsifie.
+> Si vous n'etes pas destinataire de ce message, merci de le detruire immediatement et d'avertir l'expediteur de l'erreur de distribution et de la destruction du message.
+>
+> The OpenPGP____.asc attachment is a public encryption key that you can use to encrypt your messages.
+> This message is protected by the secrecy of correspondence rules; furthermore it may contain privileged or confidential information that is protected by law, notably by the secrecy of business relations rule; it is intended solely for the attention of the addressee. Any disclosure, use, dissemination or reproduction (either whole or partial) of this message or the information contained herein is strictly prohibited without prior consent.
+> Any electronic message is susceptible to alteration and its integrity can not be assured. Any responsibility for this message is declined in the event of alteration or falsification.
+> If you are not the intended recipient, please destroy it immediately and notify the sender of the wrong delivery and the mail deletion.Contenu de l'email : 
+
+
+SUJET : accord pour inscrire ML3A au répertoire SIRENE avec 2 numéros 
+SIRET (un pour 31300-siège social et un pour 17700-établissement de gestion)
+
+Salutations Fred, 🙌
+
+_? Aucune clé OpenPGP pour /fred@g1sms.fr/ ?
+_
+
+Dans l'optique de l'enregistrement de ML3A en tant que PSAN, il peut 
+être très utile d'immatriculer l'association dans le répertoire Sirene 
+et de demander dès à présent l’attribution d’un n° Siren/Siret.
+Cela pourrait nous sauver de l'exigence abusive d'un Extrait kbis et de 
+devoir créer une entreprise commerciale /ad hoc/ pour le ẐEN pour aller 
+plus vite.
+Car, après avoir regardé la liste des PSAN enregistrés, il n'y a pas 
+encore d'association loi de 1901 ; seulement des sociétés commerciales.
+C'est pour cela aussi que ta suggestion de méthode itérative ne me 
+semble pas idoine, il faut d'emblée déposer un dossier complet. Je t'en 
+reparlerai.
+
+2. Cela pourrait aussi servir, par suite, à déclarer ML3A comme 
+organisme de formation toulousain,
+si cela t'est plus pratique et utile pour gérer tes missions de 
+formation (parfois les organismes de formation locaux sont favorisés par 
+rapport à d'autres plus exotiques comme des hauts-alpins...).
+Et le traitement comptable de fooPGP ne semble pas encore au point... 
+(/off the record/)
+
+3. Je peux me charger de ces démarchesSiren/Siret, si tu en es d'accord.
+
+Co-créativement, Alain  😉
+
+
+Ressources :
+
+https://www.associations.gouv.fr/numero-siren-de-l-insee.html
+
+https://lecompteasso.associations.gouv.fr/demander-lattribution-dun-n-siren-siret/
+
+https://www.service-public.fr/particuliers/vosdroits/F1926
+
+
+P.S.: à dessein, je n'ai pas mentionné la seule entreprise commerciale 
+qui en juillet dernier a obtenu le premier _*agrément*_ PSAN, la SOCIETE 
+GENERALE - FORGE ; car les actifs numériques visés étaient exclusivement 
+réservés aux seuls fonds d'investissement de la SOCIETE GENERALE et 
+n'ont pas été vendus au grand public dans les faits.
+https://siecledigital.fr/2023/07/20/forge-la-filiale-crypto-de-la-societe-generale-a-reussi-a-obtenir-lagrement-psan/
+https://cryptoast.fr/france-societe-generale-forge-obtient-agrement-psan/
+<https://cryptoast.fr/france-societe-generale-forge-obtient-agrement-psan/>
+
+-- 
+*****************************************************************************************
+          Monnaies Libres et Alternatives Aunis Atlantique. F-17700 SURGÈRES
+                      Courriel chiffré OpenPGP :ML3A@laposte.net
+https://www.journal-officiel.gouv.fr/pages/associations-detail-annonce/?q.id=id:202300490652
+
+
+----------------------------------------------------------------------------------------------
+
+Le fichier attaché OpenPGP____.asc est une cle publique de chiffrement que vous pouvez utiliser pour encrypter vos messages.
+Ce message est protege par les regles relatives au secret des correspondances; il peut en outre contenir des informations a caractere confidentiel ou protegees par differentes regles et notamment le secret des affaires; il est etabli a destination exclusive de son destinataire. Toute divulgation, utilisation, diffusion ou reproduction (totale ou partielle) de ce message, ou des informations qu'il contient, doit etre prealablement autorisee.
+Tout message electronique est susceptible d'alteration et son integrite ne peut etre assuree. Toute responsabilite au titre de ce message est declinee s'il a ete modifie ou falsifie.
+Si vous n'etes pas destinataire de ce message, merci de le detruire immediatement et d'avertir l'expediteur de l'erreur de distribution et de la destruction du message.
+
+The OpenPGP____.asc attachment is a public encryption key that you can use to encrypt your messages.
+This message is protected by the secrecy of correspondence rules; furthermore it may contain privileged or confidential information that is protected by law, notably by the secrecy of business relations rule; it is intended solely for the attention of the addressee. Any disclosure, use, dissemination or reproduction (either whole or partial) of this message or the information contained herein is strictly prohibited without prior consent.
+Any electronic message is susceptible to alteration and its integrity can not be assured. Any responsibility for this message is declined in the event of alteration or falsification.
+If you are not the intended recipient, please destroy it immediately and notify the sender of the wrong delivery and the mail deletion.
+
+
+
+Réponse générée : 
+Salut Alain,
+
+Oui, je pense que c'est une bonne idée.
+Je te laisse envoyer l'inscription SIRENE.
+
+Mes cours m'ont bien occupés.
+Je suis content de l'exercice "/LACHAINE" que je leur ai pondu ;)
+
+je continue de passer UPlanet en revue pour y débusquer les derniers "bug"
+
+J'ai un peu laissé l'AMF en veille...
+Passe moi un coup de fil à l'occasion pour en discuter
+
+La Bise
+
+Fred
+
+
+Le 06/03/2024 à 16:03, ML3A-Monnaies Libres et Alternatives 
+Aunis-Atlantique a écrit :
+>
+>
+> SUJET : accord pour inscrire ML3A au répertoire SIRENE avec 2 numéros 
+> SIRET (un pour 31300-siège social et un pour 17700-établissement de 
+> gestion)
+>
+> Salutations Fred, 🙌
+>
+> _? Aucune clé OpenPGP pour /fred@g1sms.fr/ ?
+> _
+>
+> Dans l'optique de l'enregistrement de ML3A en tant que PSAN, il peut 
+> être très utile d'immatriculer l'association dans le répertoire Sirene 
+> et de demander dès à présent l’attribution d’un n° Siren/Siret.
+> Cela pourrait nous sauver de l'exigence abusive d'un Extrait kbis et 
+> de devoir créer une entreprise commerciale /ad hoc/ pour le ẐEN pour 
+> aller plus vite.
+> Car, après avoir regardé la liste des PSAN enregistrés, il n'y a pas 
+> encore d'association loi de 1901 ; seulement des sociétés commerciales.
+> C'est pour cela aussi que ta suggestion de méthode itérative ne me 
+> semble pas idoine, il faut d'emblée déposer un dossier complet. Je 
+> t'en reparlerai.
+>
+> 2. Cela pourrait aussi servir, par suite, à déclarer ML3A comme 
+> organisme de formation toulousain,
+> si cela t'est plus pratique et utile pour gérer tes missions de 
+> formation (parfois les organismes de formation locaux sont favorisés 
+> par rapport à d'autres plus exotiques comme des hauts-alpins...).
+> Et le traitement comptable de fooPGP ne semble pas encore au point... 
+> (/off the record/)
+>
+> 3. Je peux me charger de ces démarchesSiren/Siret, si tu en es d'accord.
+>
+> Co-créativement, Alain  😉
+>
+>
+> Ressources :
+>
+> https://www.associations.gouv.fr/numero-siren-de-l-insee.html
+>
+> https://lecompteasso.associations.gouv.fr/demander-lattribution-dun-n-siren-siret/
+>
+> https://www.service-public.fr/particuliers/vosdroits/F1926
+>
+>
+> P.S.: à dessein, je n'ai pas mentionné la seule entreprise commerciale 
+> qui en juillet dernier a obtenu le premier _*agrément*_ PSAN, la 
+> SOCIETE GENERALE - FORGE ; car les actifs numériques visés étaient 
+> exclusivement réservés aux seuls fonds d'investissement de la SOCIETE 
+> GENERALE et n'ont pas été vendus au grand public dans les faits.
+> https://siecledigital.fr/2023/07/20/forge-la-filiale-crypto-de-la-societe-generale-a-reussi-a-obtenir-lagrement-psan/
+> https://cryptoast.fr/france-societe-generale-forge-obtient-agrement-psan/
+> <https://cryptoast.fr/france-societe-generale-forge-obtient-agrement-psan/> 
+>
+> -- 
+> *****************************************************************************************
+>           Monnaies Libres et Alternatives Aunis Atlantique. F-17700 SURGÈRES
+>                       Courriel chiffré OpenPGP :ML3A@laposte.net
+> https://www.journal-officiel.gouv.fr/pages/associations-detail-annonce/?q.id=id:202300490652
+>
+>
+> ----------------------------------------------------------------------------------------------
+>
+> Le fichier attaché OpenPGP____.asc est une cle publique de chiffrement que vous pouvez utiliser pour encrypter vos messages.
+> Ce message est protege par les regles relatives au secret des correspondances; il peut en outre contenir des informations a caractere confidentiel ou protegees par differentes regles et notamment le secret des affaires; il est etabli a destination exclusive de son destinataire. Toute divulgation, utilisation, diffusion ou reproduction (totale ou partielle) de ce message, ou des informations qu'il contient, doit etre prealablement autorisee.
+> Tout message electronique est susceptible d'alteration et son integrite ne peut etre assuree. Toute responsabilite au titre de ce message est declinee s'il a ete modifie ou falsifie.
+> Si vous n'etes pas destinataire de ce message, merci de le detruire immediatement et d'avertir l'expediteur de l'erreur de distribution et de la destruction du message.
+>
+> The OpenPGP____.asc attachment is a public encryption key that you can use to encrypt your messages.
+> This message is protected by the secrecy of correspondence rules; furthermore it may contain privileged or confidential information that is protected by law, notably by the secrecy of business relations rule; it is intended solely for the attention of the addressee. Any disclosure, use, dissemination or reproduction (either whole or partial) of this message or the information contained herein is strictly prohibited without prior consent.
+> Any electronic message is susceptible to alteration and its integrity can not be assured. Any responsibility for this message is declined in the event of alteration or falsification.
+> If you are not the intended recipient, please destroy it immediately and notify the sender of the wrong delivery and the mail deletion.Contenu de l'email : 
+
+
+SUJET : accord pour inscrire ML3A au répertoire SIRENE avec 2 numéros 
+SIRET (un pour 31300-siège social et un pour 17700-établissement de gestion)
+
+Salutations Fred, 🙌
+
+_? Aucune clé OpenPGP pour /fred@g1sms.fr/ ?
+_
+
+Dans l'optique de l'enregistrement de ML3A en tant que PSAN, il peut 
+être très utile d'immatriculer l'association dans le répertoire Sirene 
+et de demander dès à présent l’attribution d’un n° Siren/Siret.
+Cela pourrait nous sauver de l'exigence abusive d'un Extrait kbis et de 
+devoir créer une entreprise commerciale /ad hoc/ pour le ẐEN pour aller 
+plus vite.
+Car, après avoir regardé la liste des PSAN enregistrés, il n'y a pas 
+encore d'association loi de 1901 ; seulement des sociétés commerciales.
+C'est pour cela aussi que ta suggestion de méthode itérative ne me 
+semble pas idoine, il faut d'emblée déposer un dossier complet. Je t'en 
+reparlerai.
+
+2. Cela pourrait aussi servir, par suite, à déclarer ML3A comme 
+organisme de formation toulousain,
+si cela t'est plus pratique et utile pour gérer tes missions de 
+formation (parfois les organismes de formation locaux sont favorisés par 
+rapport à d'autres plus exotiques comme des hauts-alpins...).
+Et le traitement comptable de fooPGP ne semble pas encore au point... 
+(/off the record/)
+
+3. Je peux me charger de ces démarchesSiren/Siret, si tu en es d'accord.
+
+Co-créativement, Alain  😉
+
+
+Ressources :
+
+https://www.associations.gouv.fr/numero-siren-de-l-insee.html
+
+https://lecompteasso.associations.gouv.fr/demander-lattribution-dun-n-siren-siret/
+
+https://www.service-public.fr/particuliers/vosdroits/F1926
+
+
+P.S.: à dessein, je n'ai pas mentionné la seule entreprise commerciale 
+qui en juillet dernier a obtenu le premier _*agrément*_ PSAN, la SOCIETE 
+GENERALE - FORGE ; car les actifs numériques visés étaient exclusivement 
+réservés aux seuls fonds d'investissement de la SOCIETE GENERALE et 
+n'ont pas été vendus au grand public dans les faits.
+https://siecledigital.fr/2023/07/20/forge-la-filiale-crypto-de-la-societe-generale-a-reussi-a-obtenir-lagrement-psan/
+https://cryptoast.fr/france-societe-generale-forge-obtient-agrement-psan/
+<https://cryptoast.fr/france-societe-generale-forge-obtient-agrement-psan/>
+
+-- 
+*****************************************************************************************
+          Monnaies Libres et Alternatives Aunis Atlantique. F-17700 SURGÈRES
+                      Courriel chiffré OpenPGP :ML3A@laposte.net
+https://www.journal-officiel.gouv.fr/pages/associations-detail-annonce/?q.id=id:202300490652
+
+
+----------------------------------------------------------------------------------------------
+
+Le fichier attaché OpenPGP____.asc est une cle publique de chiffrement que vous pouvez utiliser pour encrypter vos messages.
+Ce message est protege par les regles relatives au secret des correspondances; il peut en outre contenir des informations a caractere confidentiel ou protegees par differentes regles et notamment le secret des affaires; il est etabli a destination exclusive de son destinataire. Toute divulgation, utilisation, diffusion ou reproduction (totale ou partielle) de ce message, ou des informations qu'il contient, doit etre prealablement autorisee.
+Tout message electronique est susceptible d'alteration et son integrite ne peut etre assuree. Toute responsabilite au titre de ce message est declinee s'il a ete modifie ou falsifie.
+Si vous n'etes pas destinataire de ce message, merci de le detruire immediatement et d'avertir l'expediteur de l'erreur de distribution et de la destruction du message.
+
+The OpenPGP____.asc attachment is a public encryption key that you can use to encrypt your messages.
+This message is protected by the secrecy of correspondence rules; furthermore it may contain privileged or confidential information that is protected by law, notably by the secrecy of business relations rule; it is intended solely for the attention of the addressee. Any disclosure, use, dissemination or reproduction (either whole or partial) of this message or the information contained herein is strictly prohibited without prior consent.
+Any electronic message is susceptible to alteration and its integrity can not be assured. Any responsibility for this message is declined in the event of alteration or falsification.
+If you are not the intended recipient, please destroy it immediately and notify the sender of the wrong delivery and the mail deletion.
+
+
+
+Réponse générée : 
+Salut Alain,
+
+Oui, je pense que c'est une bonne idée.
+Je te laisse envoyer l'inscription SIRENE.
+
+Mes cours m'ont bien occupés.
+Je suis content de l'exercice "/LACHAINE" que je leur ai pondu ;)
+
+je continue de passer UPlanet en revue pour y débusquer les derniers "bug"
+
+J'ai un peu laissé l'AMF en veille...
+Passe moi un coup de fil à l'occasion pour en discuter
+
+La Bise
+
+Fred
+
+
+Le 06/03/2024 à 16:03, ML3A-Monnaies Libres et Alternatives 
+Aunis-Atlantique a écrit :
+>
+>
+> SUJET : accord pour inscrire ML3A au répertoire SIRENE avec 2 numéros 
+> SIRET (un pour 31300-siège social et un pour 17700-établissement de 
+> gestion)
+>
+> Salutations Fred, 🙌
+>
+> _? Aucune clé OpenPGP pour /fred@g1sms.fr/ ?
+> _
+>
+> Dans l'optique de l'enregistrement de ML3A en tant que PSAN, il peut 
+> être très utile d'immatriculer l'association dans le répertoire Sirene 
+> et de demander dès à présent l’attribution d’un n° Siren/Siret.
+> Cela pourrait nous sauver de l'exigence abusive d'un Extrait kbis et 
+> de devoir créer une entreprise commerciale /ad hoc/ pour le ẐEN pour 
+> aller plus vite.
+> Car, après avoir regardé la liste des PSAN enregistrés, il n'y a pas 
+> encore d'association loi de 1901 ; seulement des sociétés commerciales.
+> C'est pour cela aussi que ta suggestion de méthode itérative ne me 
+> semble pas idoine, il faut d'emblée déposer un dossier complet. Je 
+> t'en reparlerai.
+>
+> 2. Cela pourrait aussi servir, par suite, à déclarer ML3A comme 
+> organisme de formation toulousain,
+> si cela t'est plus pratique et utile pour gérer tes missions de 
+> formation (parfois les organismes de formation locaux sont favorisés 
+> par rapport à d'autres plus exotiques comme des hauts-alpins...).
+> Et le traitement comptable de fooPGP ne semble pas encore au point... 
+> (/off the record/)
+>
+> 3. Je peux me charger de ces démarchesSiren/Siret, si tu en es d'accord.
+>
+> Co-créativement, Alain  😉
+>
+>
+> Ressources :
+>
+> https://www.associations.gouv.fr/numero-siren-de-l-insee.html
+>
+> https://lecompteasso.associations.gouv.fr/demander-lattribution-dun-n-siren-siret/
+>
+> https://www.service-public.fr/particuliers/vosdroits/F1926
+>
+>
+> P.S.: à dessein, je n'ai pas mentionné la seule entreprise commerciale 
+> qui en juillet dernier a obtenu le premier _*agrément*_ PSAN, la 
+> SOCIETE GENERALE - FORGE ; car les actifs numériques visés étaient 
+> exclusivement réservés aux seuls fonds d'investissement de la SOCIETE 
+> GENERALE et n'ont pas été vendus au grand public dans les faits.
+> https://siecledigital.fr/2023/07/20/forge-la-filiale-crypto-de-la-societe-generale-a-reussi-a-obtenir-lagrement-psan/
+> https://cryptoast.fr/france-societe-generale-forge-obtient-agrement-psan/
+> <https://cryptoast.fr/france-societe-generale-forge-obtient-agrement-psan/> 
+>
+> -- 
+> *****************************************************************************************
+>           Monnaies Libres et Alternatives Aunis Atlantique. F-17700 SURGÈRES
+>                       Courriel chiffré OpenPGP :ML3A@laposte.net
+> https://www.journal-officiel.gouv.fr/pages/associations-detail-annonce/?q.id=id:202300490652
+>
+>
+> ----------------------------------------------------------------------------------------------
+>
+> Le fichier attaché OpenPGP____.asc est une cle publique de chiffrement que vous pouvez utiliser pour encrypter vos messages.
+> Ce message est protege par les regles relatives au secret des correspondances; il peut en outre contenir des informations a caractere confidentiel ou protegees par differentes regles et notamment le secret des affaires; il est etabli a destination exclusive de son destinataire. Toute divulgation, utilisation, diffusion ou reproduction (totale ou partielle) de ce message, ou des informations qu'il contient, doit etre prealablement autorisee.
+> Tout message electronique est susceptible d'alteration et son integrite ne peut etre assuree. Toute responsabilite au titre de ce message est declinee s'il a ete modifie ou falsifie.
+> Si vous n'etes pas destinataire de ce message, merci de le detruire immediatement et d'avertir l'expediteur de l'erreur de distribution et de la destruction du message.
+>
+> The OpenPGP____.asc attachment is a public encryption key that you can use to encrypt your messages.
+> This message is protected by the secrecy of correspondence rules; furthermore it may contain privileged or confidential information that is protected by law, notably by the secrecy of business relations rule; it is intended solely for the attention of the addressee. Any disclosure, use, dissemination or reproduction (either whole or partial) of this message or the information contained herein is strictly prohibited without prior consent.
+> Any electronic message is susceptible to alteration and its integrity can not be assured. Any responsibility for this message is declined in the event of alteration or falsification.
+> If you are not the intended recipient, please destroy it immediately and notify the sender of the wrong delivery and the mail deletion.Contenu de l'email : 
+
+
+SUJET : accord pour inscrire ML3A au répertoire SIRENE avec 2 numéros 
+SIRET (un pour 31300-siège social et un pour 17700-établissement de gestion)
+
+Salutations Fred, 🙌
+
+_? Aucune clé OpenPGP pour /fred@g1sms.fr/ ?
+_
+
+Dans l'optique de l'enregistrement de ML3A en tant que PSAN, il peut 
+être très utile d'immatriculer l'association dans le répertoire Sirene 
+et de demander dès à présent l’attribution d’un n° Siren/Siret.
+Cela pourrait nous sauver de l'exigence abusive d'un Extrait kbis et de 
+devoir créer une entreprise commerciale /ad hoc/ pour le ẐEN pour aller 
+plus vite.
+Car, après avoir regardé la liste des PSAN enregistrés, il n'y a pas 
+encore d'association loi de 1901 ; seulement des sociétés commerciales.
+C'est pour cela aussi que ta suggestion de méthode itérative ne me 
+semble pas idoine, il faut d'emblée déposer un dossier complet. Je t'en 
+reparlerai.
+
+2. Cela pourrait aussi servir, par suite, à déclarer ML3A comme 
+organisme de formation toulousain,
+si cela t'est plus pratique et utile pour gérer tes missions de 
+formation (parfois les organismes de formation locaux sont favorisés par 
+rapport à d'autres plus exotiques comme des hauts-alpins...).
+Et le traitement comptable de fooPGP ne semble pas encore au point... 
+(/off the record/)
+
+3. Je peux me charger de ces démarchesSiren/Siret, si tu en es d'accord.
+
+Co-créativement, Alain  😉
+
+
+Ressources :
+
+https://www.associations.gouv.fr/numero-siren-de-l-insee.html
+
+https://lecompteasso.associations.gouv.fr/demander-lattribution-dun-n-siren-siret/
+
+https://www.service-public.fr/particuliers/vosdroits/F1926
+
+
+P.S.: à dessein, je n'ai pas mentionné la seule entreprise commerciale 
+qui en juillet dernier a obtenu le premier _*agrément*_ PSAN, la SOCIETE 
+GENERALE - FORGE ; car les actifs numériques visés étaient exclusivement 
+réservés aux seuls fonds d'investissement de la SOCIETE GENERALE et 
+n'ont pas été vendus au grand public dans les faits.
+https://siecledigital.fr/2023/07/20/forge-la-filiale-crypto-de-la-societe-generale-a-reussi-a-obtenir-lagrement-psan/
+https://cryptoast.fr/france-societe-generale-forge-obtient-agrement-psan/
+<https://cryptoast.fr/france-societe-generale-forge-obtient-agrement-psan/>
+
+-- 
+*****************************************************************************************
+          Monnaies Libres et Alternatives Aunis Atlantique. F-17700 SURGÈRES
+                      Courriel chiffré OpenPGP :ML3A@laposte.net
+https://www.journal-officiel.gouv.fr/pages/associations-detail-annonce/?q.id=id:202300490652
+
+
+----------------------------------------------------------------------------------------------
+
+Le fichier attaché OpenPGP____.asc est une cle publique de chiffrement que vous pouvez utiliser pour encrypter vos messages.
+Ce message est protege par les regles relatives au secret des correspondances; il peut en outre contenir des informations a caractere confidentiel ou protegees par differentes regles et notamment le secret des affaires; il est etabli a destination exclusive de son destinataire. Toute divulgation, utilisation, diffusion ou reproduction (totale ou partielle) de ce message, ou des informations qu'il contient, doit etre prealablement autorisee.
+Tout message electronique est susceptible d'alteration et son integrite ne peut etre assuree. Toute responsabilite au titre de ce message est declinee s'il a ete modifie ou falsifie.
+Si vous n'etes pas destinataire de ce message, merci de le detruire immediatement et d'avertir l'expediteur de l'erreur de distribution et de la destruction du message.
+
+The OpenPGP____.asc attachment is a public encryption key that you can use to encrypt your messages.
+This message is protected by the secrecy of correspondence rules; furthermore it may contain privileged or confidential information that is protected by law, notably by the secrecy of business relations rule; it is intended solely for the attention of the addressee. Any disclosure, use, dissemination or reproduction (either whole or partial) of this message or the information contained herein is strictly prohibited without prior consent.
+Any electronic message is susceptible to alteration and its integrity can not be assured. Any responsibility for this message is declined in the event of alteration or falsification.
+If you are not the intended recipient, please destroy it immediately and notify the sender of the wrong delivery and the mail deletion.
+
+
+
+Réponse générée : 
+Salut Alain,
+
+Oui, je pense que c'est une bonne idée.
+Je te laisse envoyer l'inscription SIRENE.
+
+Mes cours m'ont bien occupés.
+Je suis content de l'exercice "/LACHAINE" que je leur ai pondu ;)
+
+je continue de passer UPlanet en revue pour y débusquer les derniers "bug"
+
+J'ai un peu laissé l'AMF en veille...
+Passe moi un coup de fil à l'occasion pour en discuter
+
+La Bise
+
+Fred
+
+
+Le 06/03/2024 à 16:03, ML3A-Monnaies Libres et Alternatives 
+Aunis-Atlantique a écrit :
+>
+>
+> SUJET : accord pour inscrire ML3A au répertoire SIRENE avec 2 numéros 
+> SIRET (un pour 31300-siège social et un pour 17700-établissement de 
+> gestion)
+>
+> Salutations Fred, 🙌
+>
+> _? Aucune clé OpenPGP pour /fred@g1sms.fr/ ?
+> _
+>
+> Dans l'optique de l'enregistrement de ML3A en tant que PSAN, il peut 
+> être très utile d'immatriculer l'association dans le répertoire Sirene 
+> et de demander dès à présent l’attribution d’un n° Siren/Siret.
+> Cela pourrait nous sauver de l'exigence abusive d'un Extrait kbis et 
+> de devoir créer une entreprise commerciale /ad hoc/ pour le ẐEN pour 
+> aller plus vite.
+> Car, après avoir regardé la liste des PSAN enregistrés, il n'y a pas 
+> encore d'association loi de 1901 ; seulement des sociétés commerciales.
+> C'est pour cela aussi que ta suggestion de méthode itérative ne me 
+> semble pas idoine, il faut d'emblée déposer un dossier complet. Je 
+> t'en reparlerai.
+>
+> 2. Cela pourrait aussi servir, par suite, à déclarer ML3A comme 
+> organisme de formation toulousain,
+> si cela t'est plus pratique et utile pour gérer tes missions de 
+> formation (parfois les organismes de formation locaux sont favorisés 
+> par rapport à d'autres plus exotiques comme des hauts-alpins...).
+> Et le traitement comptable de fooPGP ne semble pas encore au point... 
+> (/off the record/)
+>
+> 3. Je peux me charger de ces démarchesSiren/Siret, si tu en es d'accord.
+>
+> Co-créativement, Alain  😉
+>
+>
+> Ressources :
+>
+> https://www.associations.gouv.fr/numero-siren-de-l-insee.html
+>
+> https://lecompteasso.associations.gouv.fr/demander-lattribution-dun-n-siren-siret/
+>
+> https://www.service-public.fr/particuliers/vosdroits/F1926
+>
+>
+> P.S.: à dessein, je n'ai pas mentionné la seule entreprise commerciale 
+> qui en juillet dernier a obtenu le premier _*agrément*_ PSAN, la 
+> SOCIETE GENERALE - FORGE ; car les actifs numériques visés étaient 
+> exclusivement réservés aux seuls fonds d'investissement de la SOCIETE 
+> GENERALE et n'ont pas été vendus au grand public dans les faits.
+> https://siecledigital.fr/2023/07/20/forge-la-filiale-crypto-de-la-societe-generale-a-reussi-a-obtenir-lagrement-psan/
+> https://cryptoast.fr/france-societe-generale-forge-obtient-agrement-psan/
+> <https://cryptoast.fr/france-societe-generale-forge-obtient-agrement-psan/> 
+>
+> -- 
+> *****************************************************************************************
+>           Monnaies Libres et Alternatives Aunis Atlantique. F-17700 SURGÈRES
+>                       Courriel chiffré OpenPGP :ML3A@laposte.net
+> https://www.journal-officiel.gouv.fr/pages/associations-detail-annonce/?q.id=id:202300490652
+>
+>
+> ----------------------------------------------------------------------------------------------
+>
+> Le fichier attaché OpenPGP____.asc est une cle publique de chiffrement que vous pouvez utiliser pour encrypter vos messages.
+> Ce message est protege par les regles relatives au secret des correspondances; il peut en outre contenir des informations a caractere confidentiel ou protegees par differentes regles et notamment le secret des affaires; il est etabli a destination exclusive de son destinataire. Toute divulgation, utilisation, diffusion ou reproduction (totale ou partielle) de ce message, ou des informations qu'il contient, doit etre prealablement autorisee.
+> Tout message electronique est susceptible d'alteration et son integrite ne peut etre assuree. Toute responsabilite au titre de ce message est declinee s'il a ete modifie ou falsifie.
+> Si vous n'etes pas destinataire de ce message, merci de le detruire immediatement et d'avertir l'expediteur de l'erreur de distribution et de la destruction du message.
+>
+> The OpenPGP____.asc attachment is a public encryption key that you can use to encrypt your messages.
+> This message is protected by the secrecy of correspondence rules; furthermore it may contain privileged or confidential information that is protected by law, notably by the secrecy of business relations rule; it is intended solely for the attention of the addressee. Any disclosure, use, dissemination or reproduction (either whole or partial) of this message or the information contained herein is strictly prohibited without prior consent.
+> Any electronic message is susceptible to alteration and its integrity can not be assured. Any responsibility for this message is declined in the event of alteration or falsification.
+> If you are not the intended recipient, please destroy it immediately and notify the sender of the wrong delivery and the mail deletion.

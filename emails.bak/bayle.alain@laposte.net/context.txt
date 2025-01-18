@@ -1,0 +1,1548 @@
+Contenu de l'email : 
+Salutations Fred, 🙏
+
+*QUATER REPETITA (sic) - "moins de 150 personnes - offre au public d'un 
+montant inférieur ou égal 1M EUR"*
+
+*Le droit applicable : */RÈGLEMENT (UE) 2023/1114 DU PARLEMENT EUROPÉEN 
+ET DU CONSEIL
+du 31 mai 2023 sur les marchés de crypto-actifs/, et modifiant les 
+règlements (UE) no 1093/2010 et (UE)
+no 1095/2010 et les directives 2013/36/UE et (UE) 2019/1937
+
+L 150/40 Journal officiel de l’Union européenne 9.6.2023
+
+pages 28-29 de 166 du fichier attaché .PDF
+
+TITRE II
+CRYPTO-ACTIFS AUTRES QUE LES JETONS SE RÉFÉRANT À UN OU DES ACTIFS OU 
+LES JETONS DE MONNAIE
+ÉLECTRONIQUE
+Article 4
+Offre au public de crypto-actifs autres que des jetons se référant à un 
+ou des actifs ou des jetons de monnaie
+électronique
+1. Une personne ne peut pas offrir au public un crypto-actif autre qu’un 
+jeton se référant à un ou des actifs ou un
+jeton de monnaie électronique dans l’Union sauf si cette personne:
+a) est une personne morale;
+b) a rédigé un livre blanc sur les crypto-actifs portant sur ce 
+crypto-actif conformément à l’article 6;
+c) a notifié le livre blanc sur les crypto-actifs conformément à 
+l’article 8;
+d) a publié le livre blanc sur les crypto-actifs conformément à l’article 9;
+e) a rédigé les communications commerciales éventuelles portant sur ce 
+crypto-actif conformément à l’article 7;
+f) a publié les communications commerciales éventuelles portant sur ce 
+crypto-actif conformément à l’article 9;
+g) respecte les exigences applicables aux offreurs fixées à l’article 14.
+2. Le paragraphe 1, points b), c), d) et f), ne s’applique à aucune des 
+offres au public de crypto-actifs autres que des
+jetons se référant à un ou des actifs ou des jetons de monnaie 
+électronique suivantes:
+a) une offre à moins de 150 personnes physiques ou morales par État 
+membre lorsque ces personnes agissent pour leur
+propre compte;
+b) sur une période de 12 mois à compter du début de l’offre, une offre 
+au public d’un crypto-actif dans l’Union dont le
+montant total n’excède pas 1 000 000 EUR, ou le montant équivalent dans 
+une autre monnaie officielle ou en
+crypto-actifs;
+c) une offre d’un crypto-actif destinée uniquement à des investisseurs 
+qualifiés lorsque le crypto-actif ne peut être détenu
+que par de tels investisseurs qualifiés.
+3. Le présent titre ne s’applique pas aux offres au public de 
+crypto-actifs autres que des jetons se référant à un ou des
+actifs ou des jetons de monnaie électronique lorsque l’un ou l’autre des 
+éléments suivants s’applique:
+a) le crypto-actif est offert gratuitement;
+b) le crypto-actif est automatiquement créé en tant que rémunération 
+pour la maintenance du registre distribué ou la
+validation de transactions;
+c) l’offre concerne un jeton utilitaire donnant accès à un bien ou à un 
+service qui existe ou est opérationnel;
+d) le détenteur du crypto-actif n’a le droit de l’utiliser qu’en échange 
+de biens et de services au sein d’un réseau limité de
+commerçants ayant conclu des accords contractuels avec l’offreur.
+Aux fins du premier alinéa, point a), un crypto-actif n’est pas 
+considéré comme offert gratuitement lorsque les acheteurs
+sont tenus de fournir ou de s’engager à fournir des données à caractère 
+personnel à l’offreur en échange de ce cryptoactif, ou lorsque l’offreur 
+d’un crypto-actif reçoit des détenteurs potentiels de ce crypto-actif le 
+versement de frais, de
+commissions, ou d’avantages pécuniaires ou non pécuniaires en échange de 
+ce crypto-actif.
+Lorsque, pour chaque période de 12 mois à compter du début de l’offre 
+initiale au public, le montant total d’une offre
+au public d’un crypto-actif, dans les circonstances visées au premier 
+alinéa, point d), dans l’Union excède
+1 000 000 EUR, l’offreur envoie à l’autorité compétente une notification 
+contenant une description de l’offre et expliquant pourquoi l’offre 
+n’est pas concernée par le présent titre en vertu du premier alinéa, 
+point d).
+Sur la base de la notification visée au troisième alinéa, l’autorité 
+compétente prend une décision dûment motivée
+lorsqu’elle estime que l’activité ne peut bénéficier d’une exclusion en 
+tant que réseau limité au titre du premier
+alinéa, point d), et en informe l’offreur.
+9.6.2023 Journal officiel de l’Union européenne L 150/67 FR4. Les 
+exclusions énumérées aux paragraphes 2 et 3 ne s’appliquent pas lorsque 
+l’offreur, ou une autre personne
+agissant pour le compte de l’offreur, fait connaître dans toute 
+communication son intention de demander l’admission à
+la négociation d’un crypto-actif autre qu’un jeton se référant à un ou 
+des actifs ou un jeton de monnaie électronique.
+5. L’agrément en tant que prestataire de services sur crypto-actifs en 
+vertu de l’article 59 n’est pas requis pour la
+conservation et l’administration de crypto-actifs pour le compte de 
+clients ou pour la fourniture de services de transfert
+de crypto-actifs en lien avec des crypto-actifs dont les offres au 
+public sont exclues en vertu du paragraphe 3 du présent
+article, à moins:
+a) qu’il existe une autre offre au public du même crypto-actif et que 
+cette offre ne bénéficie pas de l’exclusion; ou
+b) que le crypto-actif offert soit admis sur une plate-forme de négociation.
+6. Lorsque l’offre au public d’un crypto-actif autre qu’un jeton se 
+référant à un ou des actifs ou un jeton de monnaie
+électronique concerne un jeton utilitaire donnant accès à des biens et 
+des services qui n’existent pas encore ou qui ne
+sont pas encore opérationnels, la durée de l’offre au public décrite 
+dans le livre blanc sur les crypto-actifs ne dépasse pas
+12 mois à compter de la date de publication du livre blanc sur les 
+crypto-actifs.
+7. Toute offre ultérieure au public du crypto-actif autre qu’un jeton se 
+référant à un ou des actifs ou un jeton de
+monnaie électronique est réputée être une offre distincte au public à 
+laquelle s’appliquent les exigences du paragraphe 1,
+sans préjudice de l’application éventuelle du paragraphe 2 ou 3 à 
+l’offre ultérieure au public.
+Aucun livre blanc sur les crypto-actifs supplémentaire n’est requis pour 
+toute offre ultérieure au public du crypto-actif
+autre qu’un jeton se référant à un ou des actifs ou un jeton de monnaie 
+électronique tant qu’un livre blanc sur les
+crypto-actifs a été publié conformément aux articles 9 et 12, et que la 
+personne responsable de la rédaction de ce livre
+blanc consent à son utilisation par écrit.
+8. Lorsqu’une offre au public d’un crypto-actif autre qu’un jeton se 
+référant à un ou des actifs ou un jeton de
+monnaie électronique n’est pas concernée par l’obligation de publier un 
+livre blanc sur les crypto-actifs en vertu du
+paragraphe 2 ou 3, mais qu’un livre blanc sur les crypto-actifs est 
+néanmoins rédigé volontairement, le présent titre
+s’applique.
+ >>
+
+
+*Ressource* : "/Ce que MiCA va changer pour les levées de fonds en 
+crypto-actifs/", Par Marina Carrier, Avocate. (Barreau de Toulouse !)
+https://www.village-justice.com/articles/que-mica-changer-pour-les-levees-fonds-crypto-actifs,43971.html
+
+<<
+(...) l'article 4 du Règlement prévoit tout une série d’exemptions qui 
+permettent aux émetteurs d’alléger, voire de supprimer le formalisme, en 
+miroir du Règlement Prospectus :
+- en deçà d’un seuil de « 150 personnes physiques ou morales par État 
+membre lorsque ces personnes agissent pour leur propre compte » ;
+- lorsque, « sur une période de 12 mois, à compter du début de l’offre, 
+la contrepartie totale d’une offre au public de crypto-actifs dans 
+l’Union ne dépasse pas 1 000 000 EUR, ou le montant équivalent dans une 
+autre monnaie ou en crypto-actifs » ;
+- lorsque l’offre s’adresse à des investisseurs qualifiés.
+
+Par ailleurs, les offres portant sur des biens ou service existants ou 
+en cours ne sont pas concernées par l’application du Règlement.
+
+Enfin, le nouveau régime prévoit une exemption similaire à celle de « 
+réseaux limités » qui avait été introduite par la directive sur les 
+services de paiement - DSP2 - et qui concernent le cas où le détenteur 
+des jetons ne pourra les utiliser qu’auprès d’un réseau limité de 
+commerçants ayant un lien contractuel avec l’émetteur.
+
+II. Des incertitudes qui demeurent.
+A. Des incertitudes liées à l’effet de seuil. (...)
+ >>
+
+
+*Nota Bene* : n'ayant toujours pas vu/lu le moindre iota de libre blanc, 
+ni même de diagramme de flux, _malgré moult demandes répétées_,
+je ne puis nullement opiner /ad validitatem/ sur l'Opération 
+St-Pétersbourg et le ẐEN.
+
+Bonne séance de travail avec le CCC-Crazy Computer Coder, et "dictateur 
+bienveillant" (/confer/ Karl FOGEL, /Produire du Logiciel Libre/).
+
+Co-créativement 😉
+
+-- 
+*****************************************************************************************
+          Alain BAYLE. Le Bois du tranchy. F-17700 ST-GEORGES-DU-BOIS
+              Courriel chiffré OpenPGP :bayle.alain@laposte.net
+Tél.: [SIGNAL] +33 (0) 612 663 414 (SMS uniquement-en zone blanche de fracture numérique)
+------------------------------
+Le fichier attache OpenPGP____.asc est une cle publique de chiffrement que vous pouvez utiliser pour encrypter vos messages.
+Ce message est protege par les regles relatives au secret des correspondances; il peut en outre contenir des informations a caractere confidentiel ou protegees par differentes regles et notamment le secret des affaires; il est etabli a destination exclusive de son destinataire. Toute divulgation, utilisation, diffusion ou reproduction (totale ou partielle) de ce message, ou des informations qu'il contient, doit etre prealablement autorisee.
+Tout message electronique est susceptible d'alteration et son integrite ne peut etre assuree. Toute responsabilite au titre de ce message est declinee s'il a ete modifie ou falsifie.
+Si vous n'etes pas destinataire de ce message, merci de le detruire immediatement et d'avertir l'expediteur de l'erreur de distribution et de la destruction du message.
+
+The OpenPGP____.asc attachment is a public encryption key that you can use to encrypt your messages.
+This message is protected by the secrecy of correspondence rules; furthermore it may contain privileged or confidential information that is protected by law, notably by the secrecy of business relations rule; it is intended solely for the attention of the addressee. Any disclosure, use, dissemination or reproduction (either whole or partial) of this message or the information contained herein is strictly prohibited without prior consent.
+Any electronic message is susceptible to alteration and its integrity can not be assured. Any responsibility for this message is declined in the event of alteration or falsification.
+If you are not the intended recipient, please destroy it immediately and notify the sender of the wrong delivery and the mail deletion.
+
+
+
+Réponse générée : 
+Salut Alain,
+
+Ceci est un test du programme d'IA...
+https://github.com/papiche/AIEmailAssistant
+...voici sa réponse...
+As tu des remarques, corrections à lui répondre ?
+
+---
+
+Je vais essayer de vous aider à comprendre les incertitudes liées à 
+l'effet de seuil dans le contexte du Règlement MiCA (Markets in the 
+Digital Age) et des levées de fonds en crypto-actifs.
+
+L'article 4 du Règlement MiCA prévoit une série d'exemptions qui 
+permettent aux émetteurs d'alléger, voire de supprimer le formalisme, en 
+mirage du Règlement Prospectus. L'une de ces exemptions est celle 
+concernant les contreparties totales d'une offre au public de 
+crypto-actifs dans l'Union.
+
+L'exemption prévoit que si la contrepartie totale d'une offre au public 
+de crypto-actifs dans l'Union ne dépasse pas 1 000 000 EUR (ou le 
+montant équivalent dans une autre monnaie ou en crypto-actifs) sur une 
+période de 12 mois, commençant à la date de début de l'offre, alors 
+cette offre est considérée comme non soumise au Règlement MiCA.
+
+Cependant, il y a plusieurs incertitudes liées à l'effet de seuil :
+
+1. **Quel est le montant exact du seuil ?** Le texte du Règlement ne 
+précise pas clairement quelle monnaie ou crypto-actif devra être utilisé 
+pour calculer le seuil. Il faudrait peut-être clarifier cela dans un 
+décret ou une décision de l'UE.
+2. **Comment calculer le montant ?** Il n'est pas non plus clair comment 
+calculer le montant de la contrepartie totale d'une offre au public de 
+crypto-actifs. Devraient les émetteurs utiliser une valeur moyenne, un 
+prix moyen ou un autre critère pour calculer ce montant ?
+3. **Quel est l'impact sur les investisseurs ?** L'exemption peut avoir 
+un impact significatif sur les investisseurs qui se voient offrir des 
+opportunités de levée de fonds en crypto-actifs. Si la contrepartie 
+totale dépasse le seuil, alors ces investisseurs devront peut-être faire 
+face à des réglementations plus strictes.
+4. **Comment s'assurer de l'intégrité du processus ?** Pour s'assurer 
+que les émetteurs utilisent correctement la contrepartie totale pour 
+calculer le seuil, il faudrait mettre en place un système de contrôle et 
+de supervision.
+
+En résumé, les incertitudes liées à l'effet de seuil dans le Règlement 
+MiCA concernent le montant exact du seuil, la façon dont il est calculé 
+et son impact sur les investisseurs. Il faudrait clarifier ces points 
+pour éviter tout malentendu ou confusion.
+
+Voici quelques questions que vous pourriez poser aux autorités compétentes :
+
+* Quel est le montant exact du seuil ? Devrait-il être fixé en euros, 
+dans une autre monnaie ou en crypto-actif ?
+* Comment calculer la contrepartie totale d'une offre au public de 
+crypto-actifs pour déterminer si elle dépasse le seuil ?
+* Quel est l'impact sur les investisseurs qui se voient offrir des 
+opportunités de levée de fonds en crypto-actifs si la contrepartie 
+totale dépasse le seuil ?
+* Comment s'assurer que les émetteurs utilisent correctement la 
+contrepartie totale pour calculer le seuil ?
+
+J'espère que cela vous aide à mieux comprendre les incertitudes liées à 
+l'effet de seuil dans le Règlement MiCA.
+Contenu de l'email : 
+Salutations Fred, 🙏
+
+*QUATER REPETITA (sic) - "moins de 150 personnes - offre au public d'un 
+montant inférieur ou égal 1M EUR"*
+
+*Le droit applicable : */RÈGLEMENT (UE) 2023/1114 DU PARLEMENT EUROPÉEN 
+ET DU CONSEIL
+du 31 mai 2023 sur les marchés de crypto-actifs/, et modifiant les 
+règlements (UE) no 1093/2010 et (UE)
+no 1095/2010 et les directives 2013/36/UE et (UE) 2019/1937
+
+L 150/40 Journal officiel de l’Union européenne 9.6.2023
+
+pages 28-29 de 166 du fichier attaché .PDF
+
+TITRE II
+CRYPTO-ACTIFS AUTRES QUE LES JETONS SE RÉFÉRANT À UN OU DES ACTIFS OU 
+LES JETONS DE MONNAIE
+ÉLECTRONIQUE
+Article 4
+Offre au public de crypto-actifs autres que des jetons se référant à un 
+ou des actifs ou des jetons de monnaie
+électronique
+1. Une personne ne peut pas offrir au public un crypto-actif autre qu’un 
+jeton se référant à un ou des actifs ou un
+jeton de monnaie électronique dans l’Union sauf si cette personne:
+a) est une personne morale;
+b) a rédigé un livre blanc sur les crypto-actifs portant sur ce 
+crypto-actif conformément à l’article 6;
+c) a notifié le livre blanc sur les crypto-actifs conformément à 
+l’article 8;
+d) a publié le livre blanc sur les crypto-actifs conformément à l’article 9;
+e) a rédigé les communications commerciales éventuelles portant sur ce 
+crypto-actif conformément à l’article 7;
+f) a publié les communications commerciales éventuelles portant sur ce 
+crypto-actif conformément à l’article 9;
+g) respecte les exigences applicables aux offreurs fixées à l’article 14.
+2. Le paragraphe 1, points b), c), d) et f), ne s’applique à aucune des 
+offres au public de crypto-actifs autres que des
+jetons se référant à un ou des actifs ou des jetons de monnaie 
+électronique suivantes:
+a) une offre à moins de 150 personnes physiques ou morales par État 
+membre lorsque ces personnes agissent pour leur
+propre compte;
+b) sur une période de 12 mois à compter du début de l’offre, une offre 
+au public d’un crypto-actif dans l’Union dont le
+montant total n’excède pas 1 000 000 EUR, ou le montant équivalent dans 
+une autre monnaie officielle ou en
+crypto-actifs;
+c) une offre d’un crypto-actif destinée uniquement à des investisseurs 
+qualifiés lorsque le crypto-actif ne peut être détenu
+que par de tels investisseurs qualifiés.
+3. Le présent titre ne s’applique pas aux offres au public de 
+crypto-actifs autres que des jetons se référant à un ou des
+actifs ou des jetons de monnaie électronique lorsque l’un ou l’autre des 
+éléments suivants s’applique:
+a) le crypto-actif est offert gratuitement;
+b) le crypto-actif est automatiquement créé en tant que rémunération 
+pour la maintenance du registre distribué ou la
+validation de transactions;
+c) l’offre concerne un jeton utilitaire donnant accès à un bien ou à un 
+service qui existe ou est opérationnel;
+d) le détenteur du crypto-actif n’a le droit de l’utiliser qu’en échange 
+de biens et de services au sein d’un réseau limité de
+commerçants ayant conclu des accords contractuels avec l’offreur.
+Aux fins du premier alinéa, point a), un crypto-actif n’est pas 
+considéré comme offert gratuitement lorsque les acheteurs
+sont tenus de fournir ou de s’engager à fournir des données à caractère 
+personnel à l’offreur en échange de ce cryptoactif, ou lorsque l’offreur 
+d’un crypto-actif reçoit des détenteurs potentiels de ce crypto-actif le 
+versement de frais, de
+commissions, ou d’avantages pécuniaires ou non pécuniaires en échange de 
+ce crypto-actif.
+Lorsque, pour chaque période de 12 mois à compter du début de l’offre 
+initiale au public, le montant total d’une offre
+au public d’un crypto-actif, dans les circonstances visées au premier 
+alinéa, point d), dans l’Union excède
+1 000 000 EUR, l’offreur envoie à l’autorité compétente une notification 
+contenant une description de l’offre et expliquant pourquoi l’offre 
+n’est pas concernée par le présent titre en vertu du premier alinéa, 
+point d).
+Sur la base de la notification visée au troisième alinéa, l’autorité 
+compétente prend une décision dûment motivée
+lorsqu’elle estime que l’activité ne peut bénéficier d’une exclusion en 
+tant que réseau limité au titre du premier
+alinéa, point d), et en informe l’offreur.
+9.6.2023 Journal officiel de l’Union européenne L 150/67 FR4. Les 
+exclusions énumérées aux paragraphes 2 et 3 ne s’appliquent pas lorsque 
+l’offreur, ou une autre personne
+agissant pour le compte de l’offreur, fait connaître dans toute 
+communication son intention de demander l’admission à
+la négociation d’un crypto-actif autre qu’un jeton se référant à un ou 
+des actifs ou un jeton de monnaie électronique.
+5. L’agrément en tant que prestataire de services sur crypto-actifs en 
+vertu de l’article 59 n’est pas requis pour la
+conservation et l’administration de crypto-actifs pour le compte de 
+clients ou pour la fourniture de services de transfert
+de crypto-actifs en lien avec des crypto-actifs dont les offres au 
+public sont exclues en vertu du paragraphe 3 du présent
+article, à moins:
+a) qu’il existe une autre offre au public du même crypto-actif et que 
+cette offre ne bénéficie pas de l’exclusion; ou
+b) que le crypto-actif offert soit admis sur une plate-forme de négociation.
+6. Lorsque l’offre au public d’un crypto-actif autre qu’un jeton se 
+référant à un ou des actifs ou un jeton de monnaie
+électronique concerne un jeton utilitaire donnant accès à des biens et 
+des services qui n’existent pas encore ou qui ne
+sont pas encore opérationnels, la durée de l’offre au public décrite 
+dans le livre blanc sur les crypto-actifs ne dépasse pas
+12 mois à compter de la date de publication du livre blanc sur les 
+crypto-actifs.
+7. Toute offre ultérieure au public du crypto-actif autre qu’un jeton se 
+référant à un ou des actifs ou un jeton de
+monnaie électronique est réputée être une offre distincte au public à 
+laquelle s’appliquent les exigences du paragraphe 1,
+sans préjudice de l’application éventuelle du paragraphe 2 ou 3 à 
+l’offre ultérieure au public.
+Aucun livre blanc sur les crypto-actifs supplémentaire n’est requis pour 
+toute offre ultérieure au public du crypto-actif
+autre qu’un jeton se référant à un ou des actifs ou un jeton de monnaie 
+électronique tant qu’un livre blanc sur les
+crypto-actifs a été publié conformément aux articles 9 et 12, et que la 
+personne responsable de la rédaction de ce livre
+blanc consent à son utilisation par écrit.
+8. Lorsqu’une offre au public d’un crypto-actif autre qu’un jeton se 
+référant à un ou des actifs ou un jeton de
+monnaie électronique n’est pas concernée par l’obligation de publier un 
+livre blanc sur les crypto-actifs en vertu du
+paragraphe 2 ou 3, mais qu’un livre blanc sur les crypto-actifs est 
+néanmoins rédigé volontairement, le présent titre
+s’applique.
+ >>
+
+
+*Ressource* : "/Ce que MiCA va changer pour les levées de fonds en 
+crypto-actifs/", Par Marina Carrier, Avocate. (Barreau de Toulouse !)
+https://www.village-justice.com/articles/que-mica-changer-pour-les-levees-fonds-crypto-actifs,43971.html
+
+<<
+(...) l'article 4 du Règlement prévoit tout une série d’exemptions qui 
+permettent aux émetteurs d’alléger, voire de supprimer le formalisme, en 
+miroir du Règlement Prospectus :
+- en deçà d’un seuil de « 150 personnes physiques ou morales par État 
+membre lorsque ces personnes agissent pour leur propre compte » ;
+- lorsque, « sur une période de 12 mois, à compter du début de l’offre, 
+la contrepartie totale d’une offre au public de crypto-actifs dans 
+l’Union ne dépasse pas 1 000 000 EUR, ou le montant équivalent dans une 
+autre monnaie ou en crypto-actifs » ;
+- lorsque l’offre s’adresse à des investisseurs qualifiés.
+
+Par ailleurs, les offres portant sur des biens ou service existants ou 
+en cours ne sont pas concernées par l’application du Règlement.
+
+Enfin, le nouveau régime prévoit une exemption similaire à celle de « 
+réseaux limités » qui avait été introduite par la directive sur les 
+services de paiement - DSP2 - et qui concernent le cas où le détenteur 
+des jetons ne pourra les utiliser qu’auprès d’un réseau limité de 
+commerçants ayant un lien contractuel avec l’émetteur.
+
+II. Des incertitudes qui demeurent.
+A. Des incertitudes liées à l’effet de seuil. (...)
+ >>
+
+
+*Nota Bene* : n'ayant toujours pas vu/lu le moindre iota de libre blanc, 
+ni même de diagramme de flux, _malgré moult demandes répétées_,
+je ne puis nullement opiner /ad validitatem/ sur l'Opération 
+St-Pétersbourg et le ẐEN.
+
+Bonne séance de travail avec le CCC-Crazy Computer Coder, et "dictateur 
+bienveillant" (/confer/ Karl FOGEL, /Produire du Logiciel Libre/).
+
+Co-créativement 😉
+
+-- 
+*****************************************************************************************
+          Alain BAYLE. Le Bois du tranchy. F-17700 ST-GEORGES-DU-BOIS
+              Courriel chiffré OpenPGP :bayle.alain@laposte.net
+Tél.: [SIGNAL] +33 (0) 612 663 414 (SMS uniquement-en zone blanche de fracture numérique)
+------------------------------
+Le fichier attache OpenPGP____.asc est une cle publique de chiffrement que vous pouvez utiliser pour encrypter vos messages.
+Ce message est protege par les regles relatives au secret des correspondances; il peut en outre contenir des informations a caractere confidentiel ou protegees par differentes regles et notamment le secret des affaires; il est etabli a destination exclusive de son destinataire. Toute divulgation, utilisation, diffusion ou reproduction (totale ou partielle) de ce message, ou des informations qu'il contient, doit etre prealablement autorisee.
+Tout message electronique est susceptible d'alteration et son integrite ne peut etre assuree. Toute responsabilite au titre de ce message est declinee s'il a ete modifie ou falsifie.
+Si vous n'etes pas destinataire de ce message, merci de le detruire immediatement et d'avertir l'expediteur de l'erreur de distribution et de la destruction du message.
+
+The OpenPGP____.asc attachment is a public encryption key that you can use to encrypt your messages.
+This message is protected by the secrecy of correspondence rules; furthermore it may contain privileged or confidential information that is protected by law, notably by the secrecy of business relations rule; it is intended solely for the attention of the addressee. Any disclosure, use, dissemination or reproduction (either whole or partial) of this message or the information contained herein is strictly prohibited without prior consent.
+Any electronic message is susceptible to alteration and its integrity can not be assured. Any responsibility for this message is declined in the event of alteration or falsification.
+If you are not the intended recipient, please destroy it immediately and notify the sender of the wrong delivery and the mail deletion.
+
+
+
+Réponse générée : 
+Salut Alain,
+
+Ceci est un test du programme d'IA...
+https://github.com/papiche/AIEmailAssistant
+...voici sa réponse...
+As tu des remarques, corrections à lui répondre ?
+
+---
+
+Je vais essayer de vous aider à comprendre les incertitudes liées à 
+l'effet de seuil dans le contexte du Règlement MiCA (Markets in the 
+Digital Age) et des levées de fonds en crypto-actifs.
+
+L'article 4 du Règlement MiCA prévoit une série d'exemptions qui 
+permettent aux émetteurs d'alléger, voire de supprimer le formalisme, en 
+mirage du Règlement Prospectus. L'une de ces exemptions est celle 
+concernant les contreparties totales d'une offre au public de 
+crypto-actifs dans l'Union.
+
+L'exemption prévoit que si la contrepartie totale d'une offre au public 
+de crypto-actifs dans l'Union ne dépasse pas 1 000 000 EUR (ou le 
+montant équivalent dans une autre monnaie ou en crypto-actifs) sur une 
+période de 12 mois, commençant à la date de début de l'offre, alors 
+cette offre est considérée comme non soumise au Règlement MiCA.
+
+Cependant, il y a plusieurs incertitudes liées à l'effet de seuil :
+
+1. **Quel est le montant exact du seuil ?** Le texte du Règlement ne 
+précise pas clairement quelle monnaie ou crypto-actif devra être utilisé 
+pour calculer le seuil. Il faudrait peut-être clarifier cela dans un 
+décret ou une décision de l'UE.
+2. **Comment calculer le montant ?** Il n'est pas non plus clair comment 
+calculer le montant de la contrepartie totale d'une offre au public de 
+crypto-actifs. Devraient les émetteurs utiliser une valeur moyenne, un 
+prix moyen ou un autre critère pour calculer ce montant ?
+3. **Quel est l'impact sur les investisseurs ?** L'exemption peut avoir 
+un impact significatif sur les investisseurs qui se voient offrir des 
+opportunités de levée de fonds en crypto-actifs. Si la contrepartie 
+totale dépasse le seuil, alors ces investisseurs devront peut-être faire 
+face à des réglementations plus strictes.
+4. **Comment s'assurer de l'intégrité du processus ?** Pour s'assurer 
+que les émetteurs utilisent correctement la contrepartie totale pour 
+calculer le seuil, il faudrait mettre en place un système de contrôle et 
+de supervision.
+
+En résumé, les incertitudes liées à l'effet de seuil dans le Règlement 
+MiCA concernent le montant exact du seuil, la façon dont il est calculé 
+et son impact sur les investisseurs. Il faudrait clarifier ces points 
+pour éviter tout malentendu ou confusion.
+
+Voici quelques questions que vous pourriez poser aux autorités compétentes :
+
+* Quel est le montant exact du seuil ? Devrait-il être fixé en euros, 
+dans une autre monnaie ou en crypto-actif ?
+* Comment calculer la contrepartie totale d'une offre au public de 
+crypto-actifs pour déterminer si elle dépasse le seuil ?
+* Quel est l'impact sur les investisseurs qui se voient offrir des 
+opportunités de levée de fonds en crypto-actifs si la contrepartie 
+totale dépasse le seuil ?
+* Comment s'assurer que les émetteurs utilisent correctement la 
+contrepartie totale pour calculer le seuil ?
+
+J'espère que cela vous aide à mieux comprendre les incertitudes liées à 
+l'effet de seuil dans le Règlement MiCA.
+Contenu de l'email : 
+Salutations Fred, 🙏
+
+*QUATER REPETITA (sic) - "moins de 150 personnes - offre au public d'un 
+montant inférieur ou égal 1M EUR"*
+
+*Le droit applicable : */RÈGLEMENT (UE) 2023/1114 DU PARLEMENT EUROPÉEN 
+ET DU CONSEIL
+du 31 mai 2023 sur les marchés de crypto-actifs/, et modifiant les 
+règlements (UE) no 1093/2010 et (UE)
+no 1095/2010 et les directives 2013/36/UE et (UE) 2019/1937
+
+L 150/40 Journal officiel de l’Union européenne 9.6.2023
+
+pages 28-29 de 166 du fichier attaché .PDF
+
+TITRE II
+CRYPTO-ACTIFS AUTRES QUE LES JETONS SE RÉFÉRANT À UN OU DES ACTIFS OU 
+LES JETONS DE MONNAIE
+ÉLECTRONIQUE
+Article 4
+Offre au public de crypto-actifs autres que des jetons se référant à un 
+ou des actifs ou des jetons de monnaie
+électronique
+1. Une personne ne peut pas offrir au public un crypto-actif autre qu’un 
+jeton se référant à un ou des actifs ou un
+jeton de monnaie électronique dans l’Union sauf si cette personne:
+a) est une personne morale;
+b) a rédigé un livre blanc sur les crypto-actifs portant sur ce 
+crypto-actif conformément à l’article 6;
+c) a notifié le livre blanc sur les crypto-actifs conformément à 
+l’article 8;
+d) a publié le livre blanc sur les crypto-actifs conformément à l’article 9;
+e) a rédigé les communications commerciales éventuelles portant sur ce 
+crypto-actif conformément à l’article 7;
+f) a publié les communications commerciales éventuelles portant sur ce 
+crypto-actif conformément à l’article 9;
+g) respecte les exigences applicables aux offreurs fixées à l’article 14.
+2. Le paragraphe 1, points b), c), d) et f), ne s’applique à aucune des 
+offres au public de crypto-actifs autres que des
+jetons se référant à un ou des actifs ou des jetons de monnaie 
+électronique suivantes:
+a) une offre à moins de 150 personnes physiques ou morales par État 
+membre lorsque ces personnes agissent pour leur
+propre compte;
+b) sur une période de 12 mois à compter du début de l’offre, une offre 
+au public d’un crypto-actif dans l’Union dont le
+montant total n’excède pas 1 000 000 EUR, ou le montant équivalent dans 
+une autre monnaie officielle ou en
+crypto-actifs;
+c) une offre d’un crypto-actif destinée uniquement à des investisseurs 
+qualifiés lorsque le crypto-actif ne peut être détenu
+que par de tels investisseurs qualifiés.
+3. Le présent titre ne s’applique pas aux offres au public de 
+crypto-actifs autres que des jetons se référant à un ou des
+actifs ou des jetons de monnaie électronique lorsque l’un ou l’autre des 
+éléments suivants s’applique:
+a) le crypto-actif est offert gratuitement;
+b) le crypto-actif est automatiquement créé en tant que rémunération 
+pour la maintenance du registre distribué ou la
+validation de transactions;
+c) l’offre concerne un jeton utilitaire donnant accès à un bien ou à un 
+service qui existe ou est opérationnel;
+d) le détenteur du crypto-actif n’a le droit de l’utiliser qu’en échange 
+de biens et de services au sein d’un réseau limité de
+commerçants ayant conclu des accords contractuels avec l’offreur.
+Aux fins du premier alinéa, point a), un crypto-actif n’est pas 
+considéré comme offert gratuitement lorsque les acheteurs
+sont tenus de fournir ou de s’engager à fournir des données à caractère 
+personnel à l’offreur en échange de ce cryptoactif, ou lorsque l’offreur 
+d’un crypto-actif reçoit des détenteurs potentiels de ce crypto-actif le 
+versement de frais, de
+commissions, ou d’avantages pécuniaires ou non pécuniaires en échange de 
+ce crypto-actif.
+Lorsque, pour chaque période de 12 mois à compter du début de l’offre 
+initiale au public, le montant total d’une offre
+au public d’un crypto-actif, dans les circonstances visées au premier 
+alinéa, point d), dans l’Union excède
+1 000 000 EUR, l’offreur envoie à l’autorité compétente une notification 
+contenant une description de l’offre et expliquant pourquoi l’offre 
+n’est pas concernée par le présent titre en vertu du premier alinéa, 
+point d).
+Sur la base de la notification visée au troisième alinéa, l’autorité 
+compétente prend une décision dûment motivée
+lorsqu’elle estime que l’activité ne peut bénéficier d’une exclusion en 
+tant que réseau limité au titre du premier
+alinéa, point d), et en informe l’offreur.
+9.6.2023 Journal officiel de l’Union européenne L 150/67 FR4. Les 
+exclusions énumérées aux paragraphes 2 et 3 ne s’appliquent pas lorsque 
+l’offreur, ou une autre personne
+agissant pour le compte de l’offreur, fait connaître dans toute 
+communication son intention de demander l’admission à
+la négociation d’un crypto-actif autre qu’un jeton se référant à un ou 
+des actifs ou un jeton de monnaie électronique.
+5. L’agrément en tant que prestataire de services sur crypto-actifs en 
+vertu de l’article 59 n’est pas requis pour la
+conservation et l’administration de crypto-actifs pour le compte de 
+clients ou pour la fourniture de services de transfert
+de crypto-actifs en lien avec des crypto-actifs dont les offres au 
+public sont exclues en vertu du paragraphe 3 du présent
+article, à moins:
+a) qu’il existe une autre offre au public du même crypto-actif et que 
+cette offre ne bénéficie pas de l’exclusion; ou
+b) que le crypto-actif offert soit admis sur une plate-forme de négociation.
+6. Lorsque l’offre au public d’un crypto-actif autre qu’un jeton se 
+référant à un ou des actifs ou un jeton de monnaie
+électronique concerne un jeton utilitaire donnant accès à des biens et 
+des services qui n’existent pas encore ou qui ne
+sont pas encore opérationnels, la durée de l’offre au public décrite 
+dans le livre blanc sur les crypto-actifs ne dépasse pas
+12 mois à compter de la date de publication du livre blanc sur les 
+crypto-actifs.
+7. Toute offre ultérieure au public du crypto-actif autre qu’un jeton se 
+référant à un ou des actifs ou un jeton de
+monnaie électronique est réputée être une offre distincte au public à 
+laquelle s’appliquent les exigences du paragraphe 1,
+sans préjudice de l’application éventuelle du paragraphe 2 ou 3 à 
+l’offre ultérieure au public.
+Aucun livre blanc sur les crypto-actifs supplémentaire n’est requis pour 
+toute offre ultérieure au public du crypto-actif
+autre qu’un jeton se référant à un ou des actifs ou un jeton de monnaie 
+électronique tant qu’un livre blanc sur les
+crypto-actifs a été publié conformément aux articles 9 et 12, et que la 
+personne responsable de la rédaction de ce livre
+blanc consent à son utilisation par écrit.
+8. Lorsqu’une offre au public d’un crypto-actif autre qu’un jeton se 
+référant à un ou des actifs ou un jeton de
+monnaie électronique n’est pas concernée par l’obligation de publier un 
+livre blanc sur les crypto-actifs en vertu du
+paragraphe 2 ou 3, mais qu’un livre blanc sur les crypto-actifs est 
+néanmoins rédigé volontairement, le présent titre
+s’applique.
+ >>
+
+
+*Ressource* : "/Ce que MiCA va changer pour les levées de fonds en 
+crypto-actifs/", Par Marina Carrier, Avocate. (Barreau de Toulouse !)
+https://www.village-justice.com/articles/que-mica-changer-pour-les-levees-fonds-crypto-actifs,43971.html
+
+<<
+(...) l'article 4 du Règlement prévoit tout une série d’exemptions qui 
+permettent aux émetteurs d’alléger, voire de supprimer le formalisme, en 
+miroir du Règlement Prospectus :
+- en deçà d’un seuil de « 150 personnes physiques ou morales par État 
+membre lorsque ces personnes agissent pour leur propre compte » ;
+- lorsque, « sur une période de 12 mois, à compter du début de l’offre, 
+la contrepartie totale d’une offre au public de crypto-actifs dans 
+l’Union ne dépasse pas 1 000 000 EUR, ou le montant équivalent dans une 
+autre monnaie ou en crypto-actifs » ;
+- lorsque l’offre s’adresse à des investisseurs qualifiés.
+
+Par ailleurs, les offres portant sur des biens ou service existants ou 
+en cours ne sont pas concernées par l’application du Règlement.
+
+Enfin, le nouveau régime prévoit une exemption similaire à celle de « 
+réseaux limités » qui avait été introduite par la directive sur les 
+services de paiement - DSP2 - et qui concernent le cas où le détenteur 
+des jetons ne pourra les utiliser qu’auprès d’un réseau limité de 
+commerçants ayant un lien contractuel avec l’émetteur.
+
+II. Des incertitudes qui demeurent.
+A. Des incertitudes liées à l’effet de seuil. (...)
+ >>
+
+
+*Nota Bene* : n'ayant toujours pas vu/lu le moindre iota de libre blanc, 
+ni même de diagramme de flux, _malgré moult demandes répétées_,
+je ne puis nullement opiner /ad validitatem/ sur l'Opération 
+St-Pétersbourg et le ẐEN.
+
+Bonne séance de travail avec le CCC-Crazy Computer Coder, et "dictateur 
+bienveillant" (/confer/ Karl FOGEL, /Produire du Logiciel Libre/).
+
+Co-créativement 😉
+
+-- 
+*****************************************************************************************
+          Alain BAYLE. Le Bois du tranchy. F-17700 ST-GEORGES-DU-BOIS
+              Courriel chiffré OpenPGP :bayle.alain@laposte.net
+Tél.: [SIGNAL] +33 (0) 612 663 414 (SMS uniquement-en zone blanche de fracture numérique)
+------------------------------
+Le fichier attache OpenPGP____.asc est une cle publique de chiffrement que vous pouvez utiliser pour encrypter vos messages.
+Ce message est protege par les regles relatives au secret des correspondances; il peut en outre contenir des informations a caractere confidentiel ou protegees par differentes regles et notamment le secret des affaires; il est etabli a destination exclusive de son destinataire. Toute divulgation, utilisation, diffusion ou reproduction (totale ou partielle) de ce message, ou des informations qu'il contient, doit etre prealablement autorisee.
+Tout message electronique est susceptible d'alteration et son integrite ne peut etre assuree. Toute responsabilite au titre de ce message est declinee s'il a ete modifie ou falsifie.
+Si vous n'etes pas destinataire de ce message, merci de le detruire immediatement et d'avertir l'expediteur de l'erreur de distribution et de la destruction du message.
+
+The OpenPGP____.asc attachment is a public encryption key that you can use to encrypt your messages.
+This message is protected by the secrecy of correspondence rules; furthermore it may contain privileged or confidential information that is protected by law, notably by the secrecy of business relations rule; it is intended solely for the attention of the addressee. Any disclosure, use, dissemination or reproduction (either whole or partial) of this message or the information contained herein is strictly prohibited without prior consent.
+Any electronic message is susceptible to alteration and its integrity can not be assured. Any responsibility for this message is declined in the event of alteration or falsification.
+If you are not the intended recipient, please destroy it immediately and notify the sender of the wrong delivery and the mail deletion.
+
+
+
+Réponse générée : 
+Salut Alain,
+
+Ceci est un test du programme d'IA...
+https://github.com/papiche/AIEmailAssistant
+...voici sa réponse...
+As tu des remarques, corrections à lui répondre ?
+
+---
+
+Je vais essayer de vous aider à comprendre les incertitudes liées à 
+l'effet de seuil dans le contexte du Règlement MiCA (Markets in the 
+Digital Age) et des levées de fonds en crypto-actifs.
+
+L'article 4 du Règlement MiCA prévoit une série d'exemptions qui 
+permettent aux émetteurs d'alléger, voire de supprimer le formalisme, en 
+mirage du Règlement Prospectus. L'une de ces exemptions est celle 
+concernant les contreparties totales d'une offre au public de 
+crypto-actifs dans l'Union.
+
+L'exemption prévoit que si la contrepartie totale d'une offre au public 
+de crypto-actifs dans l'Union ne dépasse pas 1 000 000 EUR (ou le 
+montant équivalent dans une autre monnaie ou en crypto-actifs) sur une 
+période de 12 mois, commençant à la date de début de l'offre, alors 
+cette offre est considérée comme non soumise au Règlement MiCA.
+
+Cependant, il y a plusieurs incertitudes liées à l'effet de seuil :
+
+1. **Quel est le montant exact du seuil ?** Le texte du Règlement ne 
+précise pas clairement quelle monnaie ou crypto-actif devra être utilisé 
+pour calculer le seuil. Il faudrait peut-être clarifier cela dans un 
+décret ou une décision de l'UE.
+2. **Comment calculer le montant ?** Il n'est pas non plus clair comment 
+calculer le montant de la contrepartie totale d'une offre au public de 
+crypto-actifs. Devraient les émetteurs utiliser une valeur moyenne, un 
+prix moyen ou un autre critère pour calculer ce montant ?
+3. **Quel est l'impact sur les investisseurs ?** L'exemption peut avoir 
+un impact significatif sur les investisseurs qui se voient offrir des 
+opportunités de levée de fonds en crypto-actifs. Si la contrepartie 
+totale dépasse le seuil, alors ces investisseurs devront peut-être faire 
+face à des réglementations plus strictes.
+4. **Comment s'assurer de l'intégrité du processus ?** Pour s'assurer 
+que les émetteurs utilisent correctement la contrepartie totale pour 
+calculer le seuil, il faudrait mettre en place un système de contrôle et 
+de supervision.
+
+En résumé, les incertitudes liées à l'effet de seuil dans le Règlement 
+MiCA concernent le montant exact du seuil, la façon dont il est calculé 
+et son impact sur les investisseurs. Il faudrait clarifier ces points 
+pour éviter tout malentendu ou confusion.
+
+Voici quelques questions que vous pourriez poser aux autorités compétentes :
+
+* Quel est le montant exact du seuil ? Devrait-il être fixé en euros, 
+dans une autre monnaie ou en crypto-actif ?
+* Comment calculer la contrepartie totale d'une offre au public de 
+crypto-actifs pour déterminer si elle dépasse le seuil ?
+* Quel est l'impact sur les investisseurs qui se voient offrir des 
+opportunités de levée de fonds en crypto-actifs si la contrepartie 
+totale dépasse le seuil ?
+* Comment s'assurer que les émetteurs utilisent correctement la 
+contrepartie totale pour calculer le seuil ?
+
+J'espère que cela vous aide à mieux comprendre les incertitudes liées à 
+l'effet de seuil dans le Règlement MiCA.
+Contenu de l'email : 
+Salutations Fred, 🙏
+
+*QUATER REPETITA (sic) - "moins de 150 personnes - offre au public d'un 
+montant inférieur ou égal 1M EUR"*
+
+*Le droit applicable : */RÈGLEMENT (UE) 2023/1114 DU PARLEMENT EUROPÉEN 
+ET DU CONSEIL
+du 31 mai 2023 sur les marchés de crypto-actifs/, et modifiant les 
+règlements (UE) no 1093/2010 et (UE)
+no 1095/2010 et les directives 2013/36/UE et (UE) 2019/1937
+
+L 150/40 Journal officiel de l’Union européenne 9.6.2023
+
+pages 28-29 de 166 du fichier attaché .PDF
+
+TITRE II
+CRYPTO-ACTIFS AUTRES QUE LES JETONS SE RÉFÉRANT À UN OU DES ACTIFS OU 
+LES JETONS DE MONNAIE
+ÉLECTRONIQUE
+Article 4
+Offre au public de crypto-actifs autres que des jetons se référant à un 
+ou des actifs ou des jetons de monnaie
+électronique
+1. Une personne ne peut pas offrir au public un crypto-actif autre qu’un 
+jeton se référant à un ou des actifs ou un
+jeton de monnaie électronique dans l’Union sauf si cette personne:
+a) est une personne morale;
+b) a rédigé un livre blanc sur les crypto-actifs portant sur ce 
+crypto-actif conformément à l’article 6;
+c) a notifié le livre blanc sur les crypto-actifs conformément à 
+l’article 8;
+d) a publié le livre blanc sur les crypto-actifs conformément à l’article 9;
+e) a rédigé les communications commerciales éventuelles portant sur ce 
+crypto-actif conformément à l’article 7;
+f) a publié les communications commerciales éventuelles portant sur ce 
+crypto-actif conformément à l’article 9;
+g) respecte les exigences applicables aux offreurs fixées à l’article 14.
+2. Le paragraphe 1, points b), c), d) et f), ne s’applique à aucune des 
+offres au public de crypto-actifs autres que des
+jetons se référant à un ou des actifs ou des jetons de monnaie 
+électronique suivantes:
+a) une offre à moins de 150 personnes physiques ou morales par État 
+membre lorsque ces personnes agissent pour leur
+propre compte;
+b) sur une période de 12 mois à compter du début de l’offre, une offre 
+au public d’un crypto-actif dans l’Union dont le
+montant total n’excède pas 1 000 000 EUR, ou le montant équivalent dans 
+une autre monnaie officielle ou en
+crypto-actifs;
+c) une offre d’un crypto-actif destinée uniquement à des investisseurs 
+qualifiés lorsque le crypto-actif ne peut être détenu
+que par de tels investisseurs qualifiés.
+3. Le présent titre ne s’applique pas aux offres au public de 
+crypto-actifs autres que des jetons se référant à un ou des
+actifs ou des jetons de monnaie électronique lorsque l’un ou l’autre des 
+éléments suivants s’applique:
+a) le crypto-actif est offert gratuitement;
+b) le crypto-actif est automatiquement créé en tant que rémunération 
+pour la maintenance du registre distribué ou la
+validation de transactions;
+c) l’offre concerne un jeton utilitaire donnant accès à un bien ou à un 
+service qui existe ou est opérationnel;
+d) le détenteur du crypto-actif n’a le droit de l’utiliser qu’en échange 
+de biens et de services au sein d’un réseau limité de
+commerçants ayant conclu des accords contractuels avec l’offreur.
+Aux fins du premier alinéa, point a), un crypto-actif n’est pas 
+considéré comme offert gratuitement lorsque les acheteurs
+sont tenus de fournir ou de s’engager à fournir des données à caractère 
+personnel à l’offreur en échange de ce cryptoactif, ou lorsque l’offreur 
+d’un crypto-actif reçoit des détenteurs potentiels de ce crypto-actif le 
+versement de frais, de
+commissions, ou d’avantages pécuniaires ou non pécuniaires en échange de 
+ce crypto-actif.
+Lorsque, pour chaque période de 12 mois à compter du début de l’offre 
+initiale au public, le montant total d’une offre
+au public d’un crypto-actif, dans les circonstances visées au premier 
+alinéa, point d), dans l’Union excède
+1 000 000 EUR, l’offreur envoie à l’autorité compétente une notification 
+contenant une description de l’offre et expliquant pourquoi l’offre 
+n’est pas concernée par le présent titre en vertu du premier alinéa, 
+point d).
+Sur la base de la notification visée au troisième alinéa, l’autorité 
+compétente prend une décision dûment motivée
+lorsqu’elle estime que l’activité ne peut bénéficier d’une exclusion en 
+tant que réseau limité au titre du premier
+alinéa, point d), et en informe l’offreur.
+9.6.2023 Journal officiel de l’Union européenne L 150/67 FR4. Les 
+exclusions énumérées aux paragraphes 2 et 3 ne s’appliquent pas lorsque 
+l’offreur, ou une autre personne
+agissant pour le compte de l’offreur, fait connaître dans toute 
+communication son intention de demander l’admission à
+la négociation d’un crypto-actif autre qu’un jeton se référant à un ou 
+des actifs ou un jeton de monnaie électronique.
+5. L’agrément en tant que prestataire de services sur crypto-actifs en 
+vertu de l’article 59 n’est pas requis pour la
+conservation et l’administration de crypto-actifs pour le compte de 
+clients ou pour la fourniture de services de transfert
+de crypto-actifs en lien avec des crypto-actifs dont les offres au 
+public sont exclues en vertu du paragraphe 3 du présent
+article, à moins:
+a) qu’il existe une autre offre au public du même crypto-actif et que 
+cette offre ne bénéficie pas de l’exclusion; ou
+b) que le crypto-actif offert soit admis sur une plate-forme de négociation.
+6. Lorsque l’offre au public d’un crypto-actif autre qu’un jeton se 
+référant à un ou des actifs ou un jeton de monnaie
+électronique concerne un jeton utilitaire donnant accès à des biens et 
+des services qui n’existent pas encore ou qui ne
+sont pas encore opérationnels, la durée de l’offre au public décrite 
+dans le livre blanc sur les crypto-actifs ne dépasse pas
+12 mois à compter de la date de publication du livre blanc sur les 
+crypto-actifs.
+7. Toute offre ultérieure au public du crypto-actif autre qu’un jeton se 
+référant à un ou des actifs ou un jeton de
+monnaie électronique est réputée être une offre distincte au public à 
+laquelle s’appliquent les exigences du paragraphe 1,
+sans préjudice de l’application éventuelle du paragraphe 2 ou 3 à 
+l’offre ultérieure au public.
+Aucun livre blanc sur les crypto-actifs supplémentaire n’est requis pour 
+toute offre ultérieure au public du crypto-actif
+autre qu’un jeton se référant à un ou des actifs ou un jeton de monnaie 
+électronique tant qu’un livre blanc sur les
+crypto-actifs a été publié conformément aux articles 9 et 12, et que la 
+personne responsable de la rédaction de ce livre
+blanc consent à son utilisation par écrit.
+8. Lorsqu’une offre au public d’un crypto-actif autre qu’un jeton se 
+référant à un ou des actifs ou un jeton de
+monnaie électronique n’est pas concernée par l’obligation de publier un 
+livre blanc sur les crypto-actifs en vertu du
+paragraphe 2 ou 3, mais qu’un livre blanc sur les crypto-actifs est 
+néanmoins rédigé volontairement, le présent titre
+s’applique.
+ >>
+
+
+*Ressource* : "/Ce que MiCA va changer pour les levées de fonds en 
+crypto-actifs/", Par Marina Carrier, Avocate. (Barreau de Toulouse !)
+https://www.village-justice.com/articles/que-mica-changer-pour-les-levees-fonds-crypto-actifs,43971.html
+
+<<
+(...) l'article 4 du Règlement prévoit tout une série d’exemptions qui 
+permettent aux émetteurs d’alléger, voire de supprimer le formalisme, en 
+miroir du Règlement Prospectus :
+- en deçà d’un seuil de « 150 personnes physiques ou morales par État 
+membre lorsque ces personnes agissent pour leur propre compte » ;
+- lorsque, « sur une période de 12 mois, à compter du début de l’offre, 
+la contrepartie totale d’une offre au public de crypto-actifs dans 
+l’Union ne dépasse pas 1 000 000 EUR, ou le montant équivalent dans une 
+autre monnaie ou en crypto-actifs » ;
+- lorsque l’offre s’adresse à des investisseurs qualifiés.
+
+Par ailleurs, les offres portant sur des biens ou service existants ou 
+en cours ne sont pas concernées par l’application du Règlement.
+
+Enfin, le nouveau régime prévoit une exemption similaire à celle de « 
+réseaux limités » qui avait été introduite par la directive sur les 
+services de paiement - DSP2 - et qui concernent le cas où le détenteur 
+des jetons ne pourra les utiliser qu’auprès d’un réseau limité de 
+commerçants ayant un lien contractuel avec l’émetteur.
+
+II. Des incertitudes qui demeurent.
+A. Des incertitudes liées à l’effet de seuil. (...)
+ >>
+
+
+*Nota Bene* : n'ayant toujours pas vu/lu le moindre iota de libre blanc, 
+ni même de diagramme de flux, _malgré moult demandes répétées_,
+je ne puis nullement opiner /ad validitatem/ sur l'Opération 
+St-Pétersbourg et le ẐEN.
+
+Bonne séance de travail avec le CCC-Crazy Computer Coder, et "dictateur 
+bienveillant" (/confer/ Karl FOGEL, /Produire du Logiciel Libre/).
+
+Co-créativement 😉
+
+-- 
+*****************************************************************************************
+          Alain BAYLE. Le Bois du tranchy. F-17700 ST-GEORGES-DU-BOIS
+              Courriel chiffré OpenPGP :bayle.alain@laposte.net
+Tél.: [SIGNAL] +33 (0) 612 663 414 (SMS uniquement-en zone blanche de fracture numérique)
+------------------------------
+Le fichier attache OpenPGP____.asc est une cle publique de chiffrement que vous pouvez utiliser pour encrypter vos messages.
+Ce message est protege par les regles relatives au secret des correspondances; il peut en outre contenir des informations a caractere confidentiel ou protegees par differentes regles et notamment le secret des affaires; il est etabli a destination exclusive de son destinataire. Toute divulgation, utilisation, diffusion ou reproduction (totale ou partielle) de ce message, ou des informations qu'il contient, doit etre prealablement autorisee.
+Tout message electronique est susceptible d'alteration et son integrite ne peut etre assuree. Toute responsabilite au titre de ce message est declinee s'il a ete modifie ou falsifie.
+Si vous n'etes pas destinataire de ce message, merci de le detruire immediatement et d'avertir l'expediteur de l'erreur de distribution et de la destruction du message.
+
+The OpenPGP____.asc attachment is a public encryption key that you can use to encrypt your messages.
+This message is protected by the secrecy of correspondence rules; furthermore it may contain privileged or confidential information that is protected by law, notably by the secrecy of business relations rule; it is intended solely for the attention of the addressee. Any disclosure, use, dissemination or reproduction (either whole or partial) of this message or the information contained herein is strictly prohibited without prior consent.
+Any electronic message is susceptible to alteration and its integrity can not be assured. Any responsibility for this message is declined in the event of alteration or falsification.
+If you are not the intended recipient, please destroy it immediately and notify the sender of the wrong delivery and the mail deletion.
+
+
+
+Réponse générée : 
+Salut Alain,
+
+Ceci est un test du programme d'IA...
+https://github.com/papiche/AIEmailAssistant
+...voici sa réponse...
+As tu des remarques, corrections à lui répondre ?
+
+---
+
+Je vais essayer de vous aider à comprendre les incertitudes liées à 
+l'effet de seuil dans le contexte du Règlement MiCA (Markets in the 
+Digital Age) et des levées de fonds en crypto-actifs.
+
+L'article 4 du Règlement MiCA prévoit une série d'exemptions qui 
+permettent aux émetteurs d'alléger, voire de supprimer le formalisme, en 
+mirage du Règlement Prospectus. L'une de ces exemptions est celle 
+concernant les contreparties totales d'une offre au public de 
+crypto-actifs dans l'Union.
+
+L'exemption prévoit que si la contrepartie totale d'une offre au public 
+de crypto-actifs dans l'Union ne dépasse pas 1 000 000 EUR (ou le 
+montant équivalent dans une autre monnaie ou en crypto-actifs) sur une 
+période de 12 mois, commençant à la date de début de l'offre, alors 
+cette offre est considérée comme non soumise au Règlement MiCA.
+
+Cependant, il y a plusieurs incertitudes liées à l'effet de seuil :
+
+1. **Quel est le montant exact du seuil ?** Le texte du Règlement ne 
+précise pas clairement quelle monnaie ou crypto-actif devra être utilisé 
+pour calculer le seuil. Il faudrait peut-être clarifier cela dans un 
+décret ou une décision de l'UE.
+2. **Comment calculer le montant ?** Il n'est pas non plus clair comment 
+calculer le montant de la contrepartie totale d'une offre au public de 
+crypto-actifs. Devraient les émetteurs utiliser une valeur moyenne, un 
+prix moyen ou un autre critère pour calculer ce montant ?
+3. **Quel est l'impact sur les investisseurs ?** L'exemption peut avoir 
+un impact significatif sur les investisseurs qui se voient offrir des 
+opportunités de levée de fonds en crypto-actifs. Si la contrepartie 
+totale dépasse le seuil, alors ces investisseurs devront peut-être faire 
+face à des réglementations plus strictes.
+4. **Comment s'assurer de l'intégrité du processus ?** Pour s'assurer 
+que les émetteurs utilisent correctement la contrepartie totale pour 
+calculer le seuil, il faudrait mettre en place un système de contrôle et 
+de supervision.
+
+En résumé, les incertitudes liées à l'effet de seuil dans le Règlement 
+MiCA concernent le montant exact du seuil, la façon dont il est calculé 
+et son impact sur les investisseurs. Il faudrait clarifier ces points 
+pour éviter tout malentendu ou confusion.
+
+Voici quelques questions que vous pourriez poser aux autorités compétentes :
+
+* Quel est le montant exact du seuil ? Devrait-il être fixé en euros, 
+dans une autre monnaie ou en crypto-actif ?
+* Comment calculer la contrepartie totale d'une offre au public de 
+crypto-actifs pour déterminer si elle dépasse le seuil ?
+* Quel est l'impact sur les investisseurs qui se voient offrir des 
+opportunités de levée de fonds en crypto-actifs si la contrepartie 
+totale dépasse le seuil ?
+* Comment s'assurer que les émetteurs utilisent correctement la 
+contrepartie totale pour calculer le seuil ?
+
+J'espère que cela vous aide à mieux comprendre les incertitudes liées à 
+l'effet de seuil dans le Règlement MiCA.
+Contenu de l'email : 
+Salutations Fred, 🙏
+
+*QUATER REPETITA (sic) - "moins de 150 personnes - offre au public d'un 
+montant inférieur ou égal 1M EUR"*
+
+*Le droit applicable : */RÈGLEMENT (UE) 2023/1114 DU PARLEMENT EUROPÉEN 
+ET DU CONSEIL
+du 31 mai 2023 sur les marchés de crypto-actifs/, et modifiant les 
+règlements (UE) no 1093/2010 et (UE)
+no 1095/2010 et les directives 2013/36/UE et (UE) 2019/1937
+
+L 150/40 Journal officiel de l’Union européenne 9.6.2023
+
+pages 28-29 de 166 du fichier attaché .PDF
+
+TITRE II
+CRYPTO-ACTIFS AUTRES QUE LES JETONS SE RÉFÉRANT À UN OU DES ACTIFS OU 
+LES JETONS DE MONNAIE
+ÉLECTRONIQUE
+Article 4
+Offre au public de crypto-actifs autres que des jetons se référant à un 
+ou des actifs ou des jetons de monnaie
+électronique
+1. Une personne ne peut pas offrir au public un crypto-actif autre qu’un 
+jeton se référant à un ou des actifs ou un
+jeton de monnaie électronique dans l’Union sauf si cette personne:
+a) est une personne morale;
+b) a rédigé un livre blanc sur les crypto-actifs portant sur ce 
+crypto-actif conformément à l’article 6;
+c) a notifié le livre blanc sur les crypto-actifs conformément à 
+l’article 8;
+d) a publié le livre blanc sur les crypto-actifs conformément à l’article 9;
+e) a rédigé les communications commerciales éventuelles portant sur ce 
+crypto-actif conformément à l’article 7;
+f) a publié les communications commerciales éventuelles portant sur ce 
+crypto-actif conformément à l’article 9;
+g) respecte les exigences applicables aux offreurs fixées à l’article 14.
+2. Le paragraphe 1, points b), c), d) et f), ne s’applique à aucune des 
+offres au public de crypto-actifs autres que des
+jetons se référant à un ou des actifs ou des jetons de monnaie 
+électronique suivantes:
+a) une offre à moins de 150 personnes physiques ou morales par État 
+membre lorsque ces personnes agissent pour leur
+propre compte;
+b) sur une période de 12 mois à compter du début de l’offre, une offre 
+au public d’un crypto-actif dans l’Union dont le
+montant total n’excède pas 1 000 000 EUR, ou le montant équivalent dans 
+une autre monnaie officielle ou en
+crypto-actifs;
+c) une offre d’un crypto-actif destinée uniquement à des investisseurs 
+qualifiés lorsque le crypto-actif ne peut être détenu
+que par de tels investisseurs qualifiés.
+3. Le présent titre ne s’applique pas aux offres au public de 
+crypto-actifs autres que des jetons se référant à un ou des
+actifs ou des jetons de monnaie électronique lorsque l’un ou l’autre des 
+éléments suivants s’applique:
+a) le crypto-actif est offert gratuitement;
+b) le crypto-actif est automatiquement créé en tant que rémunération 
+pour la maintenance du registre distribué ou la
+validation de transactions;
+c) l’offre concerne un jeton utilitaire donnant accès à un bien ou à un 
+service qui existe ou est opérationnel;
+d) le détenteur du crypto-actif n’a le droit de l’utiliser qu’en échange 
+de biens et de services au sein d’un réseau limité de
+commerçants ayant conclu des accords contractuels avec l’offreur.
+Aux fins du premier alinéa, point a), un crypto-actif n’est pas 
+considéré comme offert gratuitement lorsque les acheteurs
+sont tenus de fournir ou de s’engager à fournir des données à caractère 
+personnel à l’offreur en échange de ce cryptoactif, ou lorsque l’offreur 
+d’un crypto-actif reçoit des détenteurs potentiels de ce crypto-actif le 
+versement de frais, de
+commissions, ou d’avantages pécuniaires ou non pécuniaires en échange de 
+ce crypto-actif.
+Lorsque, pour chaque période de 12 mois à compter du début de l’offre 
+initiale au public, le montant total d’une offre
+au public d’un crypto-actif, dans les circonstances visées au premier 
+alinéa, point d), dans l’Union excède
+1 000 000 EUR, l’offreur envoie à l’autorité compétente une notification 
+contenant une description de l’offre et expliquant pourquoi l’offre 
+n’est pas concernée par le présent titre en vertu du premier alinéa, 
+point d).
+Sur la base de la notification visée au troisième alinéa, l’autorité 
+compétente prend une décision dûment motivée
+lorsqu’elle estime que l’activité ne peut bénéficier d’une exclusion en 
+tant que réseau limité au titre du premier
+alinéa, point d), et en informe l’offreur.
+9.6.2023 Journal officiel de l’Union européenne L 150/67 FR4. Les 
+exclusions énumérées aux paragraphes 2 et 3 ne s’appliquent pas lorsque 
+l’offreur, ou une autre personne
+agissant pour le compte de l’offreur, fait connaître dans toute 
+communication son intention de demander l’admission à
+la négociation d’un crypto-actif autre qu’un jeton se référant à un ou 
+des actifs ou un jeton de monnaie électronique.
+5. L’agrément en tant que prestataire de services sur crypto-actifs en 
+vertu de l’article 59 n’est pas requis pour la
+conservation et l’administration de crypto-actifs pour le compte de 
+clients ou pour la fourniture de services de transfert
+de crypto-actifs en lien avec des crypto-actifs dont les offres au 
+public sont exclues en vertu du paragraphe 3 du présent
+article, à moins:
+a) qu’il existe une autre offre au public du même crypto-actif et que 
+cette offre ne bénéficie pas de l’exclusion; ou
+b) que le crypto-actif offert soit admis sur une plate-forme de négociation.
+6. Lorsque l’offre au public d’un crypto-actif autre qu’un jeton se 
+référant à un ou des actifs ou un jeton de monnaie
+électronique concerne un jeton utilitaire donnant accès à des biens et 
+des services qui n’existent pas encore ou qui ne
+sont pas encore opérationnels, la durée de l’offre au public décrite 
+dans le livre blanc sur les crypto-actifs ne dépasse pas
+12 mois à compter de la date de publication du livre blanc sur les 
+crypto-actifs.
+7. Toute offre ultérieure au public du crypto-actif autre qu’un jeton se 
+référant à un ou des actifs ou un jeton de
+monnaie électronique est réputée être une offre distincte au public à 
+laquelle s’appliquent les exigences du paragraphe 1,
+sans préjudice de l’application éventuelle du paragraphe 2 ou 3 à 
+l’offre ultérieure au public.
+Aucun livre blanc sur les crypto-actifs supplémentaire n’est requis pour 
+toute offre ultérieure au public du crypto-actif
+autre qu’un jeton se référant à un ou des actifs ou un jeton de monnaie 
+électronique tant qu’un livre blanc sur les
+crypto-actifs a été publié conformément aux articles 9 et 12, et que la 
+personne responsable de la rédaction de ce livre
+blanc consent à son utilisation par écrit.
+8. Lorsqu’une offre au public d’un crypto-actif autre qu’un jeton se 
+référant à un ou des actifs ou un jeton de
+monnaie électronique n’est pas concernée par l’obligation de publier un 
+livre blanc sur les crypto-actifs en vertu du
+paragraphe 2 ou 3, mais qu’un livre blanc sur les crypto-actifs est 
+néanmoins rédigé volontairement, le présent titre
+s’applique.
+ >>
+
+
+*Ressource* : "/Ce que MiCA va changer pour les levées de fonds en 
+crypto-actifs/", Par Marina Carrier, Avocate. (Barreau de Toulouse !)
+https://www.village-justice.com/articles/que-mica-changer-pour-les-levees-fonds-crypto-actifs,43971.html
+
+<<
+(...) l'article 4 du Règlement prévoit tout une série d’exemptions qui 
+permettent aux émetteurs d’alléger, voire de supprimer le formalisme, en 
+miroir du Règlement Prospectus :
+- en deçà d’un seuil de « 150 personnes physiques ou morales par État 
+membre lorsque ces personnes agissent pour leur propre compte » ;
+- lorsque, « sur une période de 12 mois, à compter du début de l’offre, 
+la contrepartie totale d’une offre au public de crypto-actifs dans 
+l’Union ne dépasse pas 1 000 000 EUR, ou le montant équivalent dans une 
+autre monnaie ou en crypto-actifs » ;
+- lorsque l’offre s’adresse à des investisseurs qualifiés.
+
+Par ailleurs, les offres portant sur des biens ou service existants ou 
+en cours ne sont pas concernées par l’application du Règlement.
+
+Enfin, le nouveau régime prévoit une exemption similaire à celle de « 
+réseaux limités » qui avait été introduite par la directive sur les 
+services de paiement - DSP2 - et qui concernent le cas où le détenteur 
+des jetons ne pourra les utiliser qu’auprès d’un réseau limité de 
+commerçants ayant un lien contractuel avec l’émetteur.
+
+II. Des incertitudes qui demeurent.
+A. Des incertitudes liées à l’effet de seuil. (...)
+ >>
+
+
+*Nota Bene* : n'ayant toujours pas vu/lu le moindre iota de libre blanc, 
+ni même de diagramme de flux, _malgré moult demandes répétées_,
+je ne puis nullement opiner /ad validitatem/ sur l'Opération 
+St-Pétersbourg et le ẐEN.
+
+Bonne séance de travail avec le CCC-Crazy Computer Coder, et "dictateur 
+bienveillant" (/confer/ Karl FOGEL, /Produire du Logiciel Libre/).
+
+Co-créativement 😉
+
+-- 
+*****************************************************************************************
+          Alain BAYLE. Le Bois du tranchy. F-17700 ST-GEORGES-DU-BOIS
+              Courriel chiffré OpenPGP :bayle.alain@laposte.net
+Tél.: [SIGNAL] +33 (0) 612 663 414 (SMS uniquement-en zone blanche de fracture numérique)
+------------------------------
+Le fichier attache OpenPGP____.asc est une cle publique de chiffrement que vous pouvez utiliser pour encrypter vos messages.
+Ce message est protege par les regles relatives au secret des correspondances; il peut en outre contenir des informations a caractere confidentiel ou protegees par differentes regles et notamment le secret des affaires; il est etabli a destination exclusive de son destinataire. Toute divulgation, utilisation, diffusion ou reproduction (totale ou partielle) de ce message, ou des informations qu'il contient, doit etre prealablement autorisee.
+Tout message electronique est susceptible d'alteration et son integrite ne peut etre assuree. Toute responsabilite au titre de ce message est declinee s'il a ete modifie ou falsifie.
+Si vous n'etes pas destinataire de ce message, merci de le detruire immediatement et d'avertir l'expediteur de l'erreur de distribution et de la destruction du message.
+
+The OpenPGP____.asc attachment is a public encryption key that you can use to encrypt your messages.
+This message is protected by the secrecy of correspondence rules; furthermore it may contain privileged or confidential information that is protected by law, notably by the secrecy of business relations rule; it is intended solely for the attention of the addressee. Any disclosure, use, dissemination or reproduction (either whole or partial) of this message or the information contained herein is strictly prohibited without prior consent.
+Any electronic message is susceptible to alteration and its integrity can not be assured. Any responsibility for this message is declined in the event of alteration or falsification.
+If you are not the intended recipient, please destroy it immediately and notify the sender of the wrong delivery and the mail deletion.
+
+
+
+Réponse générée : 
+Salut Alain,
+
+Ceci est un test du programme d'IA...
+https://github.com/papiche/AIEmailAssistant
+...voici sa réponse...
+As tu des remarques, corrections à lui répondre ?
+
+---
+
+Je vais essayer de vous aider à comprendre les incertitudes liées à 
+l'effet de seuil dans le contexte du Règlement MiCA (Markets in the 
+Digital Age) et des levées de fonds en crypto-actifs.
+
+L'article 4 du Règlement MiCA prévoit une série d'exemptions qui 
+permettent aux émetteurs d'alléger, voire de supprimer le formalisme, en 
+mirage du Règlement Prospectus. L'une de ces exemptions est celle 
+concernant les contreparties totales d'une offre au public de 
+crypto-actifs dans l'Union.
+
+L'exemption prévoit que si la contrepartie totale d'une offre au public 
+de crypto-actifs dans l'Union ne dépasse pas 1 000 000 EUR (ou le 
+montant équivalent dans une autre monnaie ou en crypto-actifs) sur une 
+période de 12 mois, commençant à la date de début de l'offre, alors 
+cette offre est considérée comme non soumise au Règlement MiCA.
+
+Cependant, il y a plusieurs incertitudes liées à l'effet de seuil :
+
+1. **Quel est le montant exact du seuil ?** Le texte du Règlement ne 
+précise pas clairement quelle monnaie ou crypto-actif devra être utilisé 
+pour calculer le seuil. Il faudrait peut-être clarifier cela dans un 
+décret ou une décision de l'UE.
+2. **Comment calculer le montant ?** Il n'est pas non plus clair comment 
+calculer le montant de la contrepartie totale d'une offre au public de 
+crypto-actifs. Devraient les émetteurs utiliser une valeur moyenne, un 
+prix moyen ou un autre critère pour calculer ce montant ?
+3. **Quel est l'impact sur les investisseurs ?** L'exemption peut avoir 
+un impact significatif sur les investisseurs qui se voient offrir des 
+opportunités de levée de fonds en crypto-actifs. Si la contrepartie 
+totale dépasse le seuil, alors ces investisseurs devront peut-être faire 
+face à des réglementations plus strictes.
+4. **Comment s'assurer de l'intégrité du processus ?** Pour s'assurer 
+que les émetteurs utilisent correctement la contrepartie totale pour 
+calculer le seuil, il faudrait mettre en place un système de contrôle et 
+de supervision.
+
+En résumé, les incertitudes liées à l'effet de seuil dans le Règlement 
+MiCA concernent le montant exact du seuil, la façon dont il est calculé 
+et son impact sur les investisseurs. Il faudrait clarifier ces points 
+pour éviter tout malentendu ou confusion.
+
+Voici quelques questions que vous pourriez poser aux autorités compétentes :
+
+* Quel est le montant exact du seuil ? Devrait-il être fixé en euros, 
+dans une autre monnaie ou en crypto-actif ?
+* Comment calculer la contrepartie totale d'une offre au public de 
+crypto-actifs pour déterminer si elle dépasse le seuil ?
+* Quel est l'impact sur les investisseurs qui se voient offrir des 
+opportunités de levée de fonds en crypto-actifs si la contrepartie 
+totale dépasse le seuil ?
+* Comment s'assurer que les émetteurs utilisent correctement la 
+contrepartie totale pour calculer le seuil ?
+
+J'espère que cela vous aide à mieux comprendre les incertitudes liées à 
+l'effet de seuil dans le Règlement MiCA.
+Contenu de l'email : 
+Salutations Fred, 🙏
+
+*QUATER REPETITA (sic) - "moins de 150 personnes - offre au public d'un 
+montant inférieur ou égal 1M EUR"*
+
+*Le droit applicable : */RÈGLEMENT (UE) 2023/1114 DU PARLEMENT EUROPÉEN 
+ET DU CONSEIL
+du 31 mai 2023 sur les marchés de crypto-actifs/, et modifiant les 
+règlements (UE) no 1093/2010 et (UE)
+no 1095/2010 et les directives 2013/36/UE et (UE) 2019/1937
+
+L 150/40 Journal officiel de l’Union européenne 9.6.2023
+
+pages 28-29 de 166 du fichier attaché .PDF
+
+TITRE II
+CRYPTO-ACTIFS AUTRES QUE LES JETONS SE RÉFÉRANT À UN OU DES ACTIFS OU 
+LES JETONS DE MONNAIE
+ÉLECTRONIQUE
+Article 4
+Offre au public de crypto-actifs autres que des jetons se référant à un 
+ou des actifs ou des jetons de monnaie
+électronique
+1. Une personne ne peut pas offrir au public un crypto-actif autre qu’un 
+jeton se référant à un ou des actifs ou un
+jeton de monnaie électronique dans l’Union sauf si cette personne:
+a) est une personne morale;
+b) a rédigé un livre blanc sur les crypto-actifs portant sur ce 
+crypto-actif conformément à l’article 6;
+c) a notifié le livre blanc sur les crypto-actifs conformément à 
+l’article 8;
+d) a publié le livre blanc sur les crypto-actifs conformément à l’article 9;
+e) a rédigé les communications commerciales éventuelles portant sur ce 
+crypto-actif conformément à l’article 7;
+f) a publié les communications commerciales éventuelles portant sur ce 
+crypto-actif conformément à l’article 9;
+g) respecte les exigences applicables aux offreurs fixées à l’article 14.
+2. Le paragraphe 1, points b), c), d) et f), ne s’applique à aucune des 
+offres au public de crypto-actifs autres que des
+jetons se référant à un ou des actifs ou des jetons de monnaie 
+électronique suivantes:
+a) une offre à moins de 150 personnes physiques ou morales par État 
+membre lorsque ces personnes agissent pour leur
+propre compte;
+b) sur une période de 12 mois à compter du début de l’offre, une offre 
+au public d’un crypto-actif dans l’Union dont le
+montant total n’excède pas 1 000 000 EUR, ou le montant équivalent dans 
+une autre monnaie officielle ou en
+crypto-actifs;
+c) une offre d’un crypto-actif destinée uniquement à des investisseurs 
+qualifiés lorsque le crypto-actif ne peut être détenu
+que par de tels investisseurs qualifiés.
+3. Le présent titre ne s’applique pas aux offres au public de 
+crypto-actifs autres que des jetons se référant à un ou des
+actifs ou des jetons de monnaie électronique lorsque l’un ou l’autre des 
+éléments suivants s’applique:
+a) le crypto-actif est offert gratuitement;
+b) le crypto-actif est automatiquement créé en tant que rémunération 
+pour la maintenance du registre distribué ou la
+validation de transactions;
+c) l’offre concerne un jeton utilitaire donnant accès à un bien ou à un 
+service qui existe ou est opérationnel;
+d) le détenteur du crypto-actif n’a le droit de l’utiliser qu’en échange 
+de biens et de services au sein d’un réseau limité de
+commerçants ayant conclu des accords contractuels avec l’offreur.
+Aux fins du premier alinéa, point a), un crypto-actif n’est pas 
+considéré comme offert gratuitement lorsque les acheteurs
+sont tenus de fournir ou de s’engager à fournir des données à caractère 
+personnel à l’offreur en échange de ce cryptoactif, ou lorsque l’offreur 
+d’un crypto-actif reçoit des détenteurs potentiels de ce crypto-actif le 
+versement de frais, de
+commissions, ou d’avantages pécuniaires ou non pécuniaires en échange de 
+ce crypto-actif.
+Lorsque, pour chaque période de 12 mois à compter du début de l’offre 
+initiale au public, le montant total d’une offre
+au public d’un crypto-actif, dans les circonstances visées au premier 
+alinéa, point d), dans l’Union excède
+1 000 000 EUR, l’offreur envoie à l’autorité compétente une notification 
+contenant une description de l’offre et expliquant pourquoi l’offre 
+n’est pas concernée par le présent titre en vertu du premier alinéa, 
+point d).
+Sur la base de la notification visée au troisième alinéa, l’autorité 
+compétente prend une décision dûment motivée
+lorsqu’elle estime que l’activité ne peut bénéficier d’une exclusion en 
+tant que réseau limité au titre du premier
+alinéa, point d), et en informe l’offreur.
+9.6.2023 Journal officiel de l’Union européenne L 150/67 FR4. Les 
+exclusions énumérées aux paragraphes 2 et 3 ne s’appliquent pas lorsque 
+l’offreur, ou une autre personne
+agissant pour le compte de l’offreur, fait connaître dans toute 
+communication son intention de demander l’admission à
+la négociation d’un crypto-actif autre qu’un jeton se référant à un ou 
+des actifs ou un jeton de monnaie électronique.
+5. L’agrément en tant que prestataire de services sur crypto-actifs en 
+vertu de l’article 59 n’est pas requis pour la
+conservation et l’administration de crypto-actifs pour le compte de 
+clients ou pour la fourniture de services de transfert
+de crypto-actifs en lien avec des crypto-actifs dont les offres au 
+public sont exclues en vertu du paragraphe 3 du présent
+article, à moins:
+a) qu’il existe une autre offre au public du même crypto-actif et que 
+cette offre ne bénéficie pas de l’exclusion; ou
+b) que le crypto-actif offert soit admis sur une plate-forme de négociation.
+6. Lorsque l’offre au public d’un crypto-actif autre qu’un jeton se 
+référant à un ou des actifs ou un jeton de monnaie
+électronique concerne un jeton utilitaire donnant accès à des biens et 
+des services qui n’existent pas encore ou qui ne
+sont pas encore opérationnels, la durée de l’offre au public décrite 
+dans le livre blanc sur les crypto-actifs ne dépasse pas
+12 mois à compter de la date de publication du livre blanc sur les 
+crypto-actifs.
+7. Toute offre ultérieure au public du crypto-actif autre qu’un jeton se 
+référant à un ou des actifs ou un jeton de
+monnaie électronique est réputée être une offre distincte au public à 
+laquelle s’appliquent les exigences du paragraphe 1,
+sans préjudice de l’application éventuelle du paragraphe 2 ou 3 à 
+l’offre ultérieure au public.
+Aucun livre blanc sur les crypto-actifs supplémentaire n’est requis pour 
+toute offre ultérieure au public du crypto-actif
+autre qu’un jeton se référant à un ou des actifs ou un jeton de monnaie 
+électronique tant qu’un livre blanc sur les
+crypto-actifs a été publié conformément aux articles 9 et 12, et que la 
+personne responsable de la rédaction de ce livre
+blanc consent à son utilisation par écrit.
+8. Lorsqu’une offre au public d’un crypto-actif autre qu’un jeton se 
+référant à un ou des actifs ou un jeton de
+monnaie électronique n’est pas concernée par l’obligation de publier un 
+livre blanc sur les crypto-actifs en vertu du
+paragraphe 2 ou 3, mais qu’un livre blanc sur les crypto-actifs est 
+néanmoins rédigé volontairement, le présent titre
+s’applique.
+ >>
+
+
+*Ressource* : "/Ce que MiCA va changer pour les levées de fonds en 
+crypto-actifs/", Par Marina Carrier, Avocate. (Barreau de Toulouse !)
+https://www.village-justice.com/articles/que-mica-changer-pour-les-levees-fonds-crypto-actifs,43971.html
+
+<<
+(...) l'article 4 du Règlement prévoit tout une série d’exemptions qui 
+permettent aux émetteurs d’alléger, voire de supprimer le formalisme, en 
+miroir du Règlement Prospectus :
+- en deçà d’un seuil de « 150 personnes physiques ou morales par État 
+membre lorsque ces personnes agissent pour leur propre compte » ;
+- lorsque, « sur une période de 12 mois, à compter du début de l’offre, 
+la contrepartie totale d’une offre au public de crypto-actifs dans 
+l’Union ne dépasse pas 1 000 000 EUR, ou le montant équivalent dans une 
+autre monnaie ou en crypto-actifs » ;
+- lorsque l’offre s’adresse à des investisseurs qualifiés.
+
+Par ailleurs, les offres portant sur des biens ou service existants ou 
+en cours ne sont pas concernées par l’application du Règlement.
+
+Enfin, le nouveau régime prévoit une exemption similaire à celle de « 
+réseaux limités » qui avait été introduite par la directive sur les 
+services de paiement - DSP2 - et qui concernent le cas où le détenteur 
+des jetons ne pourra les utiliser qu’auprès d’un réseau limité de 
+commerçants ayant un lien contractuel avec l’émetteur.
+
+II. Des incertitudes qui demeurent.
+A. Des incertitudes liées à l’effet de seuil. (...)
+ >>
+
+
+*Nota Bene* : n'ayant toujours pas vu/lu le moindre iota de libre blanc, 
+ni même de diagramme de flux, _malgré moult demandes répétées_,
+je ne puis nullement opiner /ad validitatem/ sur l'Opération 
+St-Pétersbourg et le ẐEN.
+
+Bonne séance de travail avec le CCC-Crazy Computer Coder, et "dictateur 
+bienveillant" (/confer/ Karl FOGEL, /Produire du Logiciel Libre/).
+
+Co-créativement 😉
+
+-- 
+*****************************************************************************************
+          Alain BAYLE. Le Bois du tranchy. F-17700 ST-GEORGES-DU-BOIS
+              Courriel chiffré OpenPGP :bayle.alain@laposte.net
+Tél.: [SIGNAL] +33 (0) 612 663 414 (SMS uniquement-en zone blanche de fracture numérique)
+------------------------------
+Le fichier attache OpenPGP____.asc est une cle publique de chiffrement que vous pouvez utiliser pour encrypter vos messages.
+Ce message est protege par les regles relatives au secret des correspondances; il peut en outre contenir des informations a caractere confidentiel ou protegees par differentes regles et notamment le secret des affaires; il est etabli a destination exclusive de son destinataire. Toute divulgation, utilisation, diffusion ou reproduction (totale ou partielle) de ce message, ou des informations qu'il contient, doit etre prealablement autorisee.
+Tout message electronique est susceptible d'alteration et son integrite ne peut etre assuree. Toute responsabilite au titre de ce message est declinee s'il a ete modifie ou falsifie.
+Si vous n'etes pas destinataire de ce message, merci de le detruire immediatement et d'avertir l'expediteur de l'erreur de distribution et de la destruction du message.
+
+The OpenPGP____.asc attachment is a public encryption key that you can use to encrypt your messages.
+This message is protected by the secrecy of correspondence rules; furthermore it may contain privileged or confidential information that is protected by law, notably by the secrecy of business relations rule; it is intended solely for the attention of the addressee. Any disclosure, use, dissemination or reproduction (either whole or partial) of this message or the information contained herein is strictly prohibited without prior consent.
+Any electronic message is susceptible to alteration and its integrity can not be assured. Any responsibility for this message is declined in the event of alteration or falsification.
+If you are not the intended recipient, please destroy it immediately and notify the sender of the wrong delivery and the mail deletion.
+
+
+
+Réponse générée : 
+Salut Alain,
+
+Ceci est un test du programme d'IA...
+https://github.com/papiche/AIEmailAssistant
+...voici sa réponse...
+As tu des remarques, corrections à lui répondre ?
+
+---
+
+Je vais essayer de vous aider à comprendre les incertitudes liées à 
+l'effet de seuil dans le contexte du Règlement MiCA (Markets in the 
+Digital Age) et des levées de fonds en crypto-actifs.
+
+L'article 4 du Règlement MiCA prévoit une série d'exemptions qui 
+permettent aux émetteurs d'alléger, voire de supprimer le formalisme, en 
+mirage du Règlement Prospectus. L'une de ces exemptions est celle 
+concernant les contreparties totales d'une offre au public de 
+crypto-actifs dans l'Union.
+
+L'exemption prévoit que si la contrepartie totale d'une offre au public 
+de crypto-actifs dans l'Union ne dépasse pas 1 000 000 EUR (ou le 
+montant équivalent dans une autre monnaie ou en crypto-actifs) sur une 
+période de 12 mois, commençant à la date de début de l'offre, alors 
+cette offre est considérée comme non soumise au Règlement MiCA.
+
+Cependant, il y a plusieurs incertitudes liées à l'effet de seuil :
+
+1. **Quel est le montant exact du seuil ?** Le texte du Règlement ne 
+précise pas clairement quelle monnaie ou crypto-actif devra être utilisé 
+pour calculer le seuil. Il faudrait peut-être clarifier cela dans un 
+décret ou une décision de l'UE.
+2. **Comment calculer le montant ?** Il n'est pas non plus clair comment 
+calculer le montant de la contrepartie totale d'une offre au public de 
+crypto-actifs. Devraient les émetteurs utiliser une valeur moyenne, un 
+prix moyen ou un autre critère pour calculer ce montant ?
+3. **Quel est l'impact sur les investisseurs ?** L'exemption peut avoir 
+un impact significatif sur les investisseurs qui se voient offrir des 
+opportunités de levée de fonds en crypto-actifs. Si la contrepartie 
+totale dépasse le seuil, alors ces investisseurs devront peut-être faire 
+face à des réglementations plus strictes.
+4. **Comment s'assurer de l'intégrité du processus ?** Pour s'assurer 
+que les émetteurs utilisent correctement la contrepartie totale pour 
+calculer le seuil, il faudrait mettre en place un système de contrôle et 
+de supervision.
+
+En résumé, les incertitudes liées à l'effet de seuil dans le Règlement 
+MiCA concernent le montant exact du seuil, la façon dont il est calculé 
+et son impact sur les investisseurs. Il faudrait clarifier ces points 
+pour éviter tout malentendu ou confusion.
+
+Voici quelques questions que vous pourriez poser aux autorités compétentes :
+
+* Quel est le montant exact du seuil ? Devrait-il être fixé en euros, 
+dans une autre monnaie ou en crypto-actif ?
+* Comment calculer la contrepartie totale d'une offre au public de 
+crypto-actifs pour déterminer si elle dépasse le seuil ?
+* Quel est l'impact sur les investisseurs qui se voient offrir des 
+opportunités de levée de fonds en crypto-actifs si la contrepartie 
+totale dépasse le seuil ?
+* Comment s'assurer que les émetteurs utilisent correctement la 
+contrepartie totale pour calculer le seuil ?
+
+J'espère que cela vous aide à mieux comprendre les incertitudes liées à 
+l'effet de seuil dans le Règlement MiCA.

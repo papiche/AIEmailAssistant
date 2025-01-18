@@ -2,14 +2,28 @@
 <html>
 <head>
     <title>Contextes des emails</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
 </head>
 <body>
-    <h1>Liste des emails</h1>
-    <ul>
-    {% for email in emails %}
-        <li><a href="{{ url_for('show_context', email=email) }}">{{ email }}</a></li>
-    {% endfor %}
-    </ul>
+    <div class="container">
+        <h1>Liste des emails</h1>
+        {% with messages = get_flashed_messages(with_categories=true) %}
+          {% if messages %}
+            <ul class="flashes">
+            {% for category, message in messages %}
+              <li class="alert alert-{{ category }}">{{ message }}</li>
+            {% endfor %}
+            </ul>
+          {% endif %}
+        {% endwith %}
+        <ul class="list-group">
+            {% for email in emails %}
+                <li class="list-group-item"><a href="{{ url_for('show_context', email=email) }}">{{ email }}</a></li>
+            {% endfor %}
+        </ul>
+        <br>
+        <a href="{{ url_for('manage_env') }}" class="btn btn-primary">Gérer les Variables d'Environnement</a>
+        <a href="{{ url_for('run_process') }}" class="btn btn-success">Lancer le traitement des emails</a>
+    </div>
 </body>
 </html>
-

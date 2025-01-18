@@ -10,6 +10,34 @@ Ce projet implémente un assistant email intelligent utilisant Ollama pour gén�
 4. **Apprentissage Continu** : Extraction et utilisation des paires email/réponse pour améliorer les futures générations.
 5. **Gestion de Contexte** : Maintien d'un contexte global pour des réponses plus cohérentes.
 
+Le code "email3llama.py" est un système de traitement automatisé des emails utilisant l'intelligence artificielle.
+Voici une explication de ses principales fonctionnalités :
+
+* Connexion à la boîte email via IMAP
+* Lecture des emails non lus
+* Extraction d'un dataset à partir des emails précédents
+* Génération de réponses aux nouveaux emails
+*Sauvegarde des réponses en brouillon
+
+Workflow de traitement des emails
+
+text
+graph TD
+    A[Connexion IMAP] --> B[Lecture emails non lus]
+    B --> C[Extraction dataset]
+    C --> D[Génération embedding]
+    D --> E[Recherche similarités]
+    E --> F[Génération réponse]
+    F --> G[Sauvegarde brouillon]
+
+Étapes clés du processus
+
+* Extraction du dataset : La fonction extraire_dataset() parcourt les emails reçus et leurs réponses pour créer un jeu de données d'entraînement.
+* Génération d'embeddings : generer_embedding() utilise le modèle Ollama pour créer des représentations vectorielles des emails.
+* Recherche de similarités : Le système compare l'embedding de l'email entrant avec ceux du dataset pour trouver des exemples pertinents.
+* Génération de réponse : generer_reponse() utilise le contexte, les exemples similaires et le contenu de l'email pour produire une réponse appropriée.
+* Sauvegarde en brouillon : La réponse générée est sauvegardée comme brouillon dans la boîte email.
+
 ## Configuration
 
 1. Copiez `.env.template` en `.env` et remplissez les variables :
@@ -48,21 +76,6 @@ Exécutez le script principal :
 ```bash
 python email3llama.py
 ```
-
-Le script effectuera les actions suivantes en boucle :
-1. Lire les nouveaux emails
-2. Générer des réponses avec Ollama
-3. Sauvegarder les réponses comme brouillons
-4. Mettre à jour le dataset d'apprentissage avec les emails envoyés
-5. Régénérer les embeddings du dataset
-
-## Fonctionnement
-
-- Les emails non lus sont traités automatiquement.
-- Les réponses générées sont sauvegardées comme brouillons dans le dossier spécifié (DRAFTDIR).
-- L'utilisateur peut modifier et envoyer les brouillons manuellement.
-- Les emails envoyés sont utilisés pour mettre à jour le dataset d'apprentissage.
-- Le système utilise ce dataset mis à jour pour améliorer ses futures réponses.
 
 ## Contribution
 

@@ -163,3 +163,5 @@ cython_debug/
 
 
 emails/
+email_cache.json
+.aider*

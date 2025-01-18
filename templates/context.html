@@ -2,20 +2,66 @@
 <html>
 <head>
     <title>Contexte pour {{ email }}</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
 </head>
 <body>
-    <h1>Contexte pour {{ email }}</h1>
-    <h2>Contenu du fichier context.txt</h2>
-    <pre>{{ context }}</pre>
-    
-    <h2>Embeddings stockés</h2>
-    <ul>
-    {% for item in embeddings %}
-        <li>{{ item.contenu }}</li>
-    {% endfor %}
-    </ul>
-    
-    <a href="{{ url_for('index') }}">Retour à la liste</a>
+    <div class="container">
+        <h1>Contexte pour {{ email }}</h1>
+
+        <div class="card">
+            <div class="card-header">
+                Contenu du fichier context.txt
+            </div>
+            <div class="card-body">
+                <pre>{{ context }}</pre>
+            </div>
+        </div>
+        <br>
+
+        <div class="card">
+            <div class="card-header">
+                Embeddings stockés
+            </div>
+            <div class="card-body">
+              <form method="post">
+                <ul class="list-group">
+                    {% for item in embeddings %}
+                        {% set index = loop.index0 %}
+                         <li class="list-group-item">
+                            <div class="form-group">
+                             <label for="content_{{index}}">Contenu de l'embedding</label>
+                                <textarea class="form-control" id="content_{{index}}" name="content_{{index}}">{{ item.contenu }}</textarea>
+                            </div>
+                        </li>
+                    {% endfor %}
+                </ul>
+                <button type="submit" class="btn btn-primary">Enregistrer les modifications des embeddings</button>
+              </form>
+           </div>
+        </div>
+        <br>
+
+        <div class="card">
+           <div class="card-header">
+                Contextes de conversations
+            </div>
+           <div class="card-body">
+                {% if conversations %}
+                {% for conv in conversations %}
+                  <div class="card">
+                      <div class="card-body">
+                        <p class="card-text"> <b>Email:</b> <pre>{{ conv.email }}</pre></p>
+                        <p class="card-text"><b>Réponse:</b> <pre>{{ conv.reponse }}</pre></p>
+                      </div>
+                  </div>
+                {% endfor %}
+                {% else %}
+                <p class="card-text">Aucune conversation disponible</p>
+                {% endif %}
+            </div>
+        </div>
+        <br>
+        <a href="{{ url_for('index') }}" class="btn btn-secondary">Retour à la liste</a>
+    </div>
 </body>
 </html>
-
